@@ -1,0 +1,3102 @@
+[
+    {
+        "id": "31655778-bc4a-4ac4-971d-bf98acf16d1d",
+        "pname": "Insulin 40IU/ml Injection",
+        "psizeandcompany": "vial of 10 ml InjectionSun Pharmaceutical Industries Ltd",
+        "mrp": 143.42,
+        "salts": "Insulin Isophane (40IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/insulin-40iu-ml-injection-308973",
+        "category": " Human Insulin Basal "
+    },
+    {
+        "id": "fba60b55-f3cf-497e-bcc5-37fa4a0413e3",
+        "pname": "Insuman 100IU Solution for Injection",
+        "psizeandcompany": "disposable pen of 3 ml Solution for InjectionSanofi India  Ltd",
+        "mrp": 250.8,
+        "salts": "HUMAN PREMIX (100IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/insuman-100iu-solution-for-injection-317563",
+        "category": " Human Insulin Premix "
+    },
+    {
+        "id": "53fa222b-f906-4f78-88e1-ff11f91784ce",
+        "pname": "Human Actrapid 40IU/ml Solution for Injection",
+        "psizeandcompany": "vial of 10 ml Solution for InjectionNovo Nordisk India Pvt Ltd",
+        "mrp": 158.42,
+        "salts": "Human insulin (40IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534770584/ydhajunldhhjg1nkavqj.jpg",
+        "product_url": "https://www.1mg.com/drugs/human-actrapid-40iu-ml-solution-for-injection-163017",
+        "category": " Human Insulin Rapid "
+    },
+    {
+        "id": "9ee0807b-a2b3-4516-a7c9-d6948b2e1c7b",
+        "pname": "Human Mixtard 70/30 Suspension for Injection 40IU/ml",
+        "psizeandcompany": "vial of 10 ml Suspension for InjectionNovo Nordisk India Pvt Ltd",
+        "mrp": 158.42,
+        "salts": "Insulin Isophane/NPH   (70%) +   Human Insulin/Soluble Insulin (30%)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534770641/cv92adfhccvbzzr63fyb.jpg",
+        "product_url": "https://www.1mg.com/drugs/human-mixtard-70-30-suspension-for-injection-40iu-ml-322872",
+        "category": " Human Insulins And Analogues "
+    },
+    {
+        "id": "4c41f9f7-bdff-4715-966c-8daad18050c7",
+        "pname": "Lantus 100IU/ml Solution for Injection",
+        "psizeandcompany": "cartridge of 3 ml Solution for InjectionSanofi India  Ltd",
+        "mrp": 722.54,
+        "salts": "Insulin Glargine (100IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600687364/zt49jrmvtztvbc4ldrwr.png",
+        "product_url": "https://www.1mg.com/drugs/lantus-100iu-ml-solution-for-injection-113528",
+        "category": " Insulin Analogues Basal "
+    },
+    {
+        "id": "a8453f4d-5f7e-4217-8aa1-3fb33d19c107",
+        "pname": "Humalog 100IU/ml Solution for Injection",
+        "psizeandcompany": "cartridge of 3 ml Solution for InjectionEli Lilly and Company India Pvt Ltd",
+        "mrp": 819.0,
+        "salts": "Insulin Lispro (100IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600691212/ou8oveig8shvkduec2qr.png",
+        "product_url": "https://www.1mg.com/drugs/humalog-100iu-ml-solution-for-injection-341834",
+        "category": " Insulin Analogues Rapid "
+    },
+    {
+        "id": "dde0e630-e340-4713-8d6a-75351666e33c",
+        "pname": "Glycomet 500 SR Tablet",
+        "psizeandcompany": "strip of 20 tablet srUSV Ltd",
+        "mrp": 43.01,
+        "salts": "Metformin (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537452811/utyaqcplcvlw6shx3lmm.jpg",
+        "product_url": "https://www.1mg.com/drugs/glycomet-500-sr-tablet-117725",
+        "category": " Oral Antidiabetics "
+    },
+    {
+        "id": "9c0e1ee4-17a0-4dcb-a7e2-5e7cc5da4eb2",
+        "pname": "Aldonil Tablet",
+        "psizeandcompany": "strip of 10 tabletsZydus Cadila",
+        "mrp": 137.25,
+        "salts": "Epalrestat (50mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455274/huex3s1frlzdefg9wugl.jpg",
+        "product_url": "https://www.1mg.com/drugs/aldonil-tablet-134538",
+        "category": " Other Drugs Used In Diabetes "
+    },
+    {
+        "id": "7743ddc1-e076-4c6c-8144-bc7ce901a4f9",
+        "pname": "Immulina 800 Tablet",
+        "psizeandcompany": "strip of 10 tabletsWockhardt Ltd",
+        "mrp": 487.0,
+        "salts": "Pidotimod (800mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529930988/gsb0umdxlz3h5m6nhcys.jpg",
+        "product_url": "https://www.1mg.com/drugs/immulina-800-tablet-326225",
+        "category": " All Other Anti Infectives "
+    },
+    {
+        "id": "cef33f8e-6fcd-46a6-b5eb-9f88ba12c798",
+        "pname": "Secnil Forte Tablet",
+        "psizeandcompany": "strip of 2 tabletsAbbott",
+        "mrp": 175.69,
+        "salts": "Secnidazole (1000mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537763016/rlqdbszvkv4d6m1aj9j2.jpg",
+        "product_url": "https://www.1mg.com/drugs/secnil-forte-tablet-31931",
+        "category": " Amebicides "
+    },
+    {
+        "id": "9b56a03e-ac84-4ab5-ab96-cb54eac8807a",
+        "pname": "Netromax 300mg Injection",
+        "psizeandcompany": "vial of 3 ml InjectionZuventus Healthcare Ltd",
+        "mrp": 378.9,
+        "salts": "Netilmicin (300mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/netromax-300mg-injection-297325",
+        "category": " Aminoglycosides "
+    },
+    {
+        "id": "a930ec8e-ef95-499d-ae62-8f3f256d4b89",
+        "pname": "Bandy-Plus Chewable Tablet",
+        "psizeandcompany": "strip of 1 Chewable TabletMankind Pharma Ltd",
+        "mrp": 25.0,
+        "salts": "Ivermectin  (6mg) +  Albendazole (400mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537761604/nhjcjbagi2pftfmspwbr.jpg",
+        "product_url": "https://www.1mg.com/drugs/bandy-plus-chewable-tablet-68909",
+        "category": " Anthelmintics Excluding Schistosomicides "
+    },
+    {
+        "id": "c2fb2927-56e5-4792-82ab-83f637bb26a8",
+        "pname": "Fluvir 75mg Capsule",
+        "psizeandcompany": "strip of 10 capsulesHetero Drugs Ltd",
+        "mrp": 539.0,
+        "salts": "Oseltamivir Phosphate (75mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1584616604/cxdyommzbekassfu1fxm.png",
+        "product_url": "https://www.1mg.com/drugs/fluvir-75mg-capsule-25088",
+        "category": " Anti Flu Drugs "
+    },
+    {
+        "id": "16e481e0-9412-416e-b899-3ba1d1dfa61b",
+        "pname": "Akt 4 Kit",
+        "psizeandcompany": "packet of 1 KitLupin Ltd",
+        "mrp": 22.55,
+        "salts": "Isoniazid (300mg) + Rifampicin (450mg) + Ethambutol (800mg) + Pyrazinamide (750mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534916806/bif1zzkukawa7lcxikxk.jpg",
+        "product_url": "https://www.1mg.com/drugs/akt-4-kit-138868",
+        "category": " Antitubercular Products "
+    },
+    {
+        "id": "d2c82138-56fa-4f9a-8e2b-dde8b03fd33d",
+        "pname": "Zoster 800 Tablet",
+        "psizeandcompany": "strip of 10 tabletsLeeford Healthcare Ltd",
+        "mrp": 220.0,
+        "salts": "Acyclovir (800mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/zoster-800-tablet-333717",
+        "category": " Antivirals Excluding Hiv Products "
+    },
+    {
+        "id": "2ef36ed3-70c9-4b9b-8017-84711ed21412",
+        "pname": "Augmentin 625 Duo Tablet",
+        "psizeandcompany": "strip of 10 tabletsGlaxo SmithKline Pharmaceuticals Ltd",
+        "mrp": 201.71,
+        "salts": "Amoxycillin  (500mg) +  Clavulanic Acid (125mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534916805/pdz8psdjcdrkliubceij.jpg",
+        "product_url": "https://www.1mg.com/drugs/augmentin-625-duo-tablet-138629",
+        "category": " Broad Spectrum Penicillins "
+    },
+    {
+        "id": "d29c1341-d400-4548-950c-dec61eca78b8",
+        "pname": "Ticarnic  3.1 Injection",
+        "psizeandcompany": "vial of 1 InjectionUnited Biotech Pvt Ltd",
+        "mrp": 742.0,
+        "salts": "Ticarcillin (3000mg) + Clavulanic Acid (100mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/ticarnic-3.1-injection-166143",
+        "category": " Carbenicillin And Similar Types "
+    },
+    {
+        "id": "87977286-b285-48af-a358-36b6cf3c5904",
+        "pname": "Zifi 200 Tablet",
+        "psizeandcompany": "strip of 10 tabletsFDC Ltd",
+        "mrp": 107.6,
+        "salts": "Cefixime (200mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537733844/ujjnvuknzars2vzg78ig.jpg",
+        "product_url": "https://www.1mg.com/drugs/zifi-200-tablet-51344",
+        "category": " Cephalosporins "
+    },
+    {
+        "id": "7a063abb-5c10-4d94-9d80-9732d70ecf1d",
+        "pname": "Biomycetin Ear Drop",
+        "psizeandcompany": "packet of 5 ml Ear DropJuggat Pharma",
+        "mrp": 40.75,
+        "salts": "Chloramphenicol (5% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/biomycetin-ear-drop-122578",
+        "category": " Chloramphenicol And Combinations "
+    },
+    {
+        "id": "c46e70d3-b0bd-4ff4-9f62-2959dc9355e3",
+        "pname": "Dapsone Tablet",
+        "psizeandcompany": "bottle of 1000 tabletsGlaxo SmithKline Pharmaceuticals Ltd",
+        "mrp": 376.42,
+        "salts": "Dapsone (100mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/dapsone-tablet-327968",
+        "category": " Drugs For Treatment Of Lepra "
+    },
+    {
+        "id": "87078a0e-fd81-4fac-9c97-3db782799c97",
+        "pname": "Azoflox UTI Tablet",
+        "psizeandcompany": "strip of 10 tabletsMac Millon Pharmaceuticals Pvt Ltd",
+        "mrp": 135.0,
+        "salts": "Ofloxacin (200mg) + Flavoxate (200mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/azoflox-uti-tablet-467008",
+        "category": " Fluoroquinolones "
+    },
+    {
+        "id": "14fd0098-1fa6-4968-9dbf-d211ecfba274",
+        "pname": "Tenvir Tablet",
+        "psizeandcompany": "bottle of 30 tabletsCipla Ltd",
+        "mrp": 1551.46,
+        "salts": "Tenofovir disoproxil fumarate (300mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537762563/srpypctoiuqcvtpwsqzd.jpg",
+        "product_url": "https://www.1mg.com/drugs/tenvir-tablet-36351",
+        "category": " Hiv Antivirals "
+    },
+    {
+        "id": "79cdd858-7018-44d1-8df9-2b3907b95548",
+        "pname": "Azithral 500 Tablet",
+        "psizeandcompany": "strip of 5 tabletsAlembic Pharmaceuticals Ltd",
+        "mrp": 119.5,
+        "salts": "Azithromycin (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534917653/gbliwoki0x2rzz6ipnz9.jpg",
+        "product_url": "https://www.1mg.com/drugs/azithral-500-tablet-325616",
+        "category": " Macrolides And Similar Types "
+    },
+    {
+        "id": "a4f113cf-d4c5-4503-9c0b-737c04fa0bbf",
+        "pname": "Pentids 400 Tablet",
+        "psizeandcompany": "strip of 6 tabletsAbbott",
+        "mrp": 16.5,
+        "salts": "Penicillin G (400000IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455396/brprdrp9pzkdu11rsyxl.jpg",
+        "product_url": "https://www.1mg.com/drugs/pentids-400-tablet-148517",
+        "category": " Medium And Narrow Spectrum Penicillins "
+    },
+    {
+        "id": "56971d7f-9636-48f3-a370-1e1cd7407a70",
+        "pname": "Fosirol Powder",
+        "psizeandcompany": "sachet of 8 gm PowderCipla Ltd",
+        "mrp": 466.51,
+        "salts": "Fosfomycin (3gm)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534917028/vx3o9uqiigh7mf8mvgeu.jpg",
+        "product_url": "https://www.1mg.com/drugs/fosirol-powder-151185",
+        "category": " Other Antibacterials "
+    },
+    {
+        "id": "bbbd6094-b9dc-4cf1-8dc7-22cc20cd7275",
+        "pname": "Banocide Forte Tablet",
+        "psizeandcompany": "strip of 30 tabletsGlaxo SmithKline Pharmaceuticals Ltd",
+        "mrp": 43.62,
+        "salts": "Diethylcarbamazine (100mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1530272297/wpac9zqyrapfcqcjbuie.jpg",
+        "product_url": "https://www.1mg.com/drugs/banocide-forte-tablet-165789",
+        "category": " Other Anti Parasitic Agents "
+    },
+    {
+        "id": "20dcfa77-5919-4ff4-b05c-aae3606373d9",
+        "pname": "Faronem 200 Tablet",
+        "psizeandcompany": "strip of 6 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 517.0,
+        "salts": "Faropenem (200mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537784481/cmxek6iuxbccgros2tht.jpg",
+        "product_url": "https://www.1mg.com/drugs/faronem-200-tablet-8935",
+        "category": " Other Beta Lactam Antibacterials Excluding Penicillins Cephalosporins "
+    },
+    {
+        "id": "da29c8c5-80d8-462e-8109-89201cbec020",
+        "pname": "Nizonide-O Tablet",
+        "psizeandcompany": "strip of 10 tabletsLupin Ltd",
+        "mrp": 133.43,
+        "salts": "Nitazoxanide (500mg) + Ofloxacin (200mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537755554/johuelei5fkhahicamub.jpg",
+        "product_url": "https://www.1mg.com/drugs/nizonide-o-tablet-65648",
+        "category": " Schistosomicides "
+    },
+    {
+        "id": "9382e1bb-d39b-485a-b7d0-b7870e121fe1",
+        "pname": "Fluka 150 Tablet",
+        "psizeandcompany": "strip of 1 TabletCipla Ltd",
+        "mrp": 13.22,
+        "salts": "Fluconazole (150mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537456789/wqhdxrp0w7rtrsfjkjau.jpg",
+        "product_url": "https://www.1mg.com/drugs/fluka-150-tablet-9659",
+        "category": " Systemic Agents For Fungal Infections "
+    },
+    {
+        "id": "a4822d39-d9d8-4970-8f12-9428d44cfa35",
+        "pname": "Septran C Tablet",
+        "psizeandcompany": "strip of 10 tabletsGlaxo SmithKline Pharmaceuticals Ltd",
+        "mrp": 2.5,
+        "salts": "Co-trimoxazole (NA)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/septran-c-tablet-245474",
+        "category": " Systemic Sulphonamides Excluding Trimethoprim Combinations "
+    },
+    {
+        "id": "2b249582-b95c-47e2-96d6-660d3c4f6db3",
+        "pname": "Doxt-SL Capsule",
+        "psizeandcompany": "strip of 10 capsulesDr Reddy's Laboratories Ltd",
+        "mrp": 100.0,
+        "salts": "Doxycycline (100mg) + Lactobacillus (5Billion Spores)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1610976742/mxxstht3isc6fprvgmb2.jpg",
+        "product_url": "https://www.1mg.com/drugs/doxt-sl-capsule-314492",
+        "category": " Tetracyclines And Combinations "
+    },
+    {
+        "id": "742c8203-f125-4473-88b5-8e208fff0a6d",
+        "pname": "Ornida 500mg Tablet",
+        "psizeandcompany": "strip of 10 tabletsAristo Pharmaceuticals Pvt Ltd",
+        "mrp": 110.8,
+        "salts": "Ornidazole (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537767315/gfeghygyfvsmldd0cfm7.jpg",
+        "product_url": "https://www.1mg.com/drugs/ornida-500mg-tablet-25073",
+        "category": " Trichomonacides "
+    },
+    {
+        "id": "ffc1cb6b-740c-4c06-a2e7-e64b2475bf70",
+        "pname": "Septran Tablet",
+        "psizeandcompany": "strip of 10 tabletsKoye Pharmaceuticals Pvt ltd",
+        "mrp": 8.74,
+        "salts": "Sulfamethoxazole (400mg) + Trimethoprim (80mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1621253927/o3dnghgkovsdqdv9ehvh.jpg",
+        "product_url": "https://www.1mg.com/drugs/septran-tablet-174022",
+        "category": " Trimethoprim And Similar Formulations "
+    },
+    {
+        "id": "90321d21-4ccc-43d5-a4e6-2deb84509658",
+        "pname": "Lumerax 80 Tablet",
+        "psizeandcompany": "strip of 6 tabletsIpca Laboratories Ltd",
+        "mrp": 156.03,
+        "salts": "Artemether (80mg) + Lumefantrine (480mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1530272295/gly0xlbdrexau5je63yo.jpg",
+        "product_url": "https://www.1mg.com/drugs/lumerax-80-tablet-165631",
+        "category": " Other Anti Malarials "
+    },
+    {
+        "id": "7fad0947-18e3-4ae2-9d09-aa3ec51c019f",
+        "pname": "Endoxan Tablet",
+        "psizeandcompany": "strip of 10 tabletsZydus Cadila",
+        "mrp": 42.6,
+        "salts": "Cyclophosphamide (50mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537454535/olwkwwcylsqxga62jhbu.jpg",
+        "product_url": "https://www.1mg.com/drugs/endoxan-tablet-111657",
+        "category": " Alkylating Agents "
+    },
+    {
+        "id": "cbedd4fe-5b8d-4b4e-9b0c-334dc0c30821",
+        "pname": "Nintena 150mg Soft Gelatin Capsule",
+        "psizeandcompany": "strip of 10 soft gelatin capsulesSun Pharmaceutical Industries Ltd",
+        "mrp": 900.0,
+        "salts": "Nintedanib (150mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1622821165/lzz9lu6ctd2vhpu5kadi.jpg",
+        "product_url": "https://www.1mg.com/drugs/nintena-150mg-soft-gelatin-capsule-623409",
+        "category": " All Other Antineoplastics "
+    },
+    {
+        "id": "da3931f6-97e7-4533-8564-edf3aa4fb5c0",
+        "pname": "Folitrax 15 Tablet",
+        "psizeandcompany": "strip of 10 tabletsIpca Laboratories Ltd",
+        "mrp": 387.7,
+        "salts": "Methotrexate (15mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537762655/kyhgcysmgxvjtz5ftejh.jpg",
+        "product_url": "https://www.1mg.com/drugs/folitrax-15-tablet-18234",
+        "category": " Antimetabolites "
+    },
+    {
+        "id": "de03b69f-f7c6-41a8-8af9-27a6165dcd03",
+        "pname": "Adriamycin 50mg Injection",
+        "psizeandcompany": "vial of 1 InjectionPfizer Ltd",
+        "mrp": 874.39,
+        "salts": "Doxorubicin (Plain) (50mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/adriamycin-50mg-injection-210984",
+        "category": " Antineoplastic Antibiotics "
+    },
+    {
+        "id": "65440927-439a-4c37-8f74-24facaa98441",
+        "pname": "Exemptia 40mg/0.8ml Injection",
+        "psizeandcompany": "prefilled syringe of 1 InjectionZydus Cadila",
+        "mrp": 25000.0,
+        "salts": "Adalimumab (40mg/0.8ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/exemptia-40mg-0.8ml-injection-318778",
+        "category": " Anti Tnf Products "
+    },
+    {
+        "id": "0e1f8592-7ccf-4cc0-be14-b331838deb92",
+        "pname": "Letroz Tablet",
+        "psizeandcompany": "strip of 5 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 206.66,
+        "salts": "Letrozole (2.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537451030/t9hoqyrb0inmalpmuf0s.jpg",
+        "product_url": "https://www.1mg.com/drugs/letroz-tablet-69780",
+        "category": " Cytostatic Hormone Antagonists "
+    },
+    {
+        "id": "6a8d8519-6ed7-496a-86da-57893ca1f6ea",
+        "pname": "Megasty 160mg Tablet",
+        "psizeandcompany": "strip of 10 tabletsAureate Healthcare Pvt Ltd",
+        "mrp": 995.0,
+        "salts": "Megestrol (160mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1612875601/vlylilje5fnbvtechd59.jpg",
+        "product_url": "https://www.1mg.com/drugs/megasty-160mg-tablet-344676",
+        "category": " Cytostatic Hormones "
+    },
+    {
+        "id": "0e9a0f86-0dd2-4a5d-b7fb-a639d6c53728",
+        "pname": "Neukine 300mcg Injection",
+        "psizeandcompany": "prefilled syringe of 1 ml InjectionIntas Pharmaceuticals Ltd",
+        "mrp": 1540.71,
+        "salts": "Filgrastim (300mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1621254118/zanpcsecb3bpk9uid3hf.jpg",
+        "product_url": "https://www.1mg.com/drugs/neukine-300mcg-injection-239624",
+        "category": " Immunostimulating Agents Excluding Interferons "
+    },
+    {
+        "id": "6553c4dc-9b7a-46a8-8bb8-39ec12f519f6",
+        "pname": "Azoran Tablet",
+        "psizeandcompany": "strip of 10 tabletsRPG Life Sciences Ltd",
+        "mrp": 106.65,
+        "salts": "Azathioprine (50mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537726829/tfj6nuro3upda1ehylld.jpg",
+        "product_url": "https://www.1mg.com/drugs/azoran-tablet-46701",
+        "category": " Immunosuppressive Agents "
+    },
+    {
+        "id": "9dd64ec1-6a4f-4b7c-8a3c-344447e02c2a",
+        "pname": "AVONEX 30 MCG INJECTION",
+        "psizeandcompany": "vial of 1 InjectionBiogenetic Pharmaceuticals",
+        "mrp": 9557.0,
+        "salts": "Interferon Beta-1A (30mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/avonex-30-mcg-injection-119927",
+        "category": " Interferons "
+    },
+    {
+        "id": "2829cd14-34d5-4ecb-a1be-8786a1c6f9f3",
+        "pname": "Neurovin Tablet",
+        "psizeandcompany": "strip of 10 tabletsMicro Labs Ltd",
+        "mrp": 118.0,
+        "salts": "Vinpocetine (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537794467/h0ubpbri5kmztx6mqv3o.jpg",
+        "product_url": "https://www.1mg.com/drugs/neurovin-tablet-38236",
+        "category": " Vinca Alkaloids And Other Plant Products "
+    },
+    {
+        "id": "19cf7510-749b-4905-b955-9d714e60d030",
+        "pname": "Kenadion 10mg Injection",
+        "psizeandcompany": "vial of 1 ml InjectionSamarth Life Sciences Pvt Ltd",
+        "mrp": 53.45,
+        "salts": "Vitamin K (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1618229280/fysrx0z9bdmemudterhd.jpg",
+        "product_url": "https://www.1mg.com/drugs/kenadion-10mg-injection-244691",
+        "category": " Antagonists Antidotes To Anticoagulants "
+    },
+    {
+        "id": "468a426d-d46c-4ae2-8175-0470fe79f1b2",
+        "pname": "Trenaxa 500 Tablet",
+        "psizeandcompany": "strip of 6 tabletsMacleods Pharmaceuticals Pvt Ltd",
+        "mrp": 109.68,
+        "salts": "Tranexamic Acid (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537759677/df1agt8jj2rwthbu4nua.jpg",
+        "product_url": "https://www.1mg.com/drugs/trenaxa-500-tablet-116496",
+        "category": " Antifibrinolytics "
+    },
+    {
+        "id": "3aea878c-4b0a-478b-a06f-490358e8573a",
+        "pname": "Leucorin Tablet",
+        "psizeandcompany": "strip of 10 tabletsSamarth Life Sciences Pvt Ltd",
+        "mrp": 429.29,
+        "salts": "Calcium Leucovorin (15mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/leucorin-tablet-120936",
+        "category": " Detoxifying Agents For Antineoplastic Treatment "
+    },
+    {
+        "id": "c0d6acac-b6d8-44ea-9431-62ec9dbfd81c",
+        "pname": "Albumin 20% Injection",
+        "psizeandcompany": "vial of 1 InjectionBayer Pharmaceuticals Pvt Ltd",
+        "mrp": 1625.0,
+        "salts": "Albumin (20%)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/albumin-20-injection-218935",
+        "category": " Dextrans "
+    },
+    {
+        "id": "37e7f475-249a-423f-84ec-787df1d4bd2d",
+        "pname": "Eliquis 5mg Tablet",
+        "psizeandcompany": "box of 20 tabletsPfizer Ltd",
+        "mrp": 1450.0,
+        "salts": "Apixaban (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535628901/ac0st6ror3kwrlhzjegm.jpg",
+        "product_url": "https://www.1mg.com/drugs/eliquis-5mg-tablet-172700",
+        "category": " Direct Factor Xa Inhibitors "
+    },
+    {
+        "id": "ca9dcdb6-acf9-42de-934f-8ff3dfeb680f",
+        "pname": "Compound Sodium Lacate Infusion",
+        "psizeandcompany": "bottle of 500 ml InfusionPunjab Formulations Ltd",
+        "mrp": 12.5,
+        "salts": "Ringer's lactate (NA)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/compound-sodium-lacate-infusion-248341",
+        "category": " Electrolyte Solutions "
+    },
+    {
+        "id": "5c8f9f68-54f0-49c4-a4fd-b71fdf6b77e2",
+        "pname": "Cresp 40 Injection",
+        "psizeandcompany": "prefilled syringe of 0.4 ml InjectionDr Reddy's Laboratories Ltd",
+        "mrp": 2499.0,
+        "salts": "Darbepoetin alfa (40mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1629957789/yakw2tmohbqpxnukji1w.png",
+        "product_url": "https://www.1mg.com/drugs/cresp-40-injection-7566",
+        "category": " Erythropoietin Products "
+    },
+    {
+        "id": "eb28c9bb-c44c-42c8-aec2-b3128e9fdd1f",
+        "pname": "Folvite 5mg Tablet",
+        "psizeandcompany": "strip of 45 tabletsPfizer Ltd",
+        "mrp": 69.14,
+        "salts": "Folic Acid (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535628899/xpn6xzrhjbohp2cpmtpf.jpg",
+        "product_url": "https://www.1mg.com/drugs/folvite-5mg-tablet-138032",
+        "category": " Haematinics "
+    },
+    {
+        "id": "7854f821-cf6a-48e3-a789-2dad5d528584",
+        "pname": "Thrombophob Ointment",
+        "psizeandcompany": "tube of 20 gm OintmentZydus Cadila",
+        "mrp": 120.5,
+        "salts": "Benzyl Nicotinate (2mg) + Heparin (50IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537759310/xj0dfpdcjsorc3rys87g.jpg",
+        "product_url": "https://www.1mg.com/drugs/thrombophob-ointment-12683",
+        "category": " Heparins "
+    },
+    {
+        "id": "d6d90be9-1039-43db-98f7-bca3924e2445",
+        "pname": "Hynidase Injection",
+        "psizeandcompany": "vial of 1 InjectionShreya Life Sciences Pvt Ltd",
+        "mrp": 196.95,
+        "salts": "Hyaluronidase (1500IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1569404090/afxk1e0kykzumg6ov3ae.jpg",
+        "product_url": "https://www.1mg.com/drugs/hynidase-injection-542693",
+        "category": " Hyaluronidase "
+    },
+    {
+        "id": "e9c8d475-621d-4897-afd1-3d3b7b597b2e",
+        "pname": "Desirox 500 Tablet",
+        "psizeandcompany": "bottle of 30 tabletsCipla Ltd",
+        "mrp": 1597.94,
+        "salts": "Deferasirox (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1612875146/duko8yqql2a4wvatt9i3.jpg",
+        "product_url": "https://www.1mg.com/drugs/desirox-500-tablet-156135",
+        "category": " Iron Chelating Agents "
+    },
+    {
+        "id": "71783947-8777-4575-95ee-18d8573c630a",
+        "pname": "Glycine Irrigation 1.5% Infusion",
+        "psizeandcompany": "bottle of 3000 ml InfusionDenis Chem Lab Ltd",
+        "mrp": 118.75,
+        "salts": "Glycine (1.5% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/glycine-irrigation-1.5-infusion-244683",
+        "category": " Irrigating Solutions "
+    },
+    {
+        "id": "629931b8-73d8-4cce-b8e2-230b0bca84e3",
+        "pname": "Neo Hepatex Injection",
+        "psizeandcompany": "vial of 2 ml InjectionBiological E Ltd",
+        "mrp": 31.6,
+        "salts": "Liver Extract (62.5gm/ml) + Thiamine(Vitamin B1) (20mcg/ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/neo-hepatex-injection-186899",
+        "category": " Liver Extracts And Combinations With B12 "
+    },
+    {
+        "id": "e82c0dee-784e-457f-8062-81868e7e3e45",
+        "pname": "Hirudal Cream",
+        "psizeandcompany": "tube of 5 gm CreamOaknet Healthcare Pvt Ltd",
+        "mrp": 49.29,
+        "salts": "Mucopolysaccharide Polysulfate (250IU/gm)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1626804346/nzf1q9jj1dc7npqdp4ly.jpg",
+        "product_url": "https://www.1mg.com/drugs/hirudal-cream-334960",
+        "category": " Other Antithrombotic Agents Blood "
+    },
+    {
+        "id": "6aa66bc7-14bf-472b-908f-da193ad6e980",
+        "pname": "Ecosprin 75 Tablet",
+        "psizeandcompany": "strip of 14 tabletsUSV Ltd",
+        "mrp": 4.86,
+        "salts": "Aspirin (75mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537449754/jsrxl6du7tze91c7llkv.jpg",
+        "product_url": "https://www.1mg.com/drugs/ecosprin-75-tablet-40765",
+        "category": " Platelet Aggregation Inhibitors "
+    },
+    {
+        "id": "f7175c1a-eb07-4dd6-9321-2ab781d82368",
+        "pname": "Reliseal Kit",
+        "psizeandcompany": "vial of 0.5 ml InjectionReliance Formulation Pvt Ltd",
+        "mrp": 4235.0,
+        "salts": "Aprotinin (3000KIU) + Fibrinogen (70mg) + Thrombin (500IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/reliseal-kit-324654",
+        "category": " Proteinase Inhibitors "
+    },
+    {
+        "id": "f0ad3f12-9c8b-4d66-9823-2cc73199af32",
+        "pname": "Neurotol Infusion",
+        "psizeandcompany": "bottle of 300 ml InfusionVenus Remedies Ltd",
+        "mrp": 237.15,
+        "salts": "Glycerin (10% w/v) + Mannitol (10% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/neurotol-infusion-253930",
+        "category": " Solutions For Osmotic Therapy "
+    },
+    {
+        "id": "6c1f358b-07a6-441b-9242-345681ef7403",
+        "pname": "RL Infusion",
+        "psizeandcompany": "bottle of 500 ml InfusionShree KrishnaKeshav Laboratories Ltd",
+        "mrp": 46.11,
+        "salts": "Sodium Chloride (0.600gm) + Sodium Lactate (0.320gm) + Potassium Chloride (0.040gm) + Calcium Chloride (0.027gm)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/rl-infusion-245647",
+        "category": " Standard Solutions "
+    },
+    {
+        "id": "8c0d0817-90ac-47cb-995b-fc4eca264c31",
+        "pname": "Botroclot Topical Solution",
+        "psizeandcompany": "bottle of 10 ml SolutionJuggat Pharma",
+        "mrp": 140.4,
+        "salts": "Hemocoagulase (0.2CU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537726022/oxvwb9p4o7dlqthmq2g0.jpg",
+        "product_url": "https://www.1mg.com/drugs/botroclot-topical-solution-12441",
+        "category": " Systemic Heamostatics "
+    },
+    {
+        "id": "b8f0a281-80ba-41b3-9ad1-f843d8e76282",
+        "pname": "K-Win 10mg Injection",
+        "psizeandcompany": "vial of 1 ml InjectionMercury Laboratories Ltd",
+        "mrp": 52.48,
+        "salts": "Phytomenadione (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/k-win-10mg-injection-260517",
+        "category": " Vitamin K Antagonists "
+    },
+    {
+        "id": "4f069f5b-f6e1-4a3c-a9ea-e4037e6ec142",
+        "pname": "Triplixam 4mg/1.25mg/5mg Tablet",
+        "psizeandcompany": "strip of 10 tabletsSerdia Pharmaceuticals India Pvt Ltd",
+        "mrp": 175.0,
+        "salts": "Perindopril erbumine (4mg) + Indapamide (1.25mg) + Amlodipine (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1570109501/nfizdeqysw19q75fs1jr.jpg",
+        "product_url": "https://www.1mg.com/drugs/triplixam-4mg-1.25mg-5mg-tablet-544203",
+        "category": " Ace Inhibitors Combined With Anti Hypertensives "
+    },
+    {
+        "id": "8cf4347a-3ade-4e2d-a512-facbb222fb3e",
+        "pname": "Coversyl Plus  Tablet",
+        "psizeandcompany": "strip of 10 tabletsSerdia Pharmaceuticals India Pvt Ltd",
+        "mrp": 192.5,
+        "salts": "Perindopril erbumine (4mg) + Indapamide (1.25mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537730754/btqszmshh48ose5ir7q6.jpg",
+        "product_url": "https://www.1mg.com/drugs/coversyl-plus-tablet-63987",
+        "category": " Ace Inhibitors Combined With Diuretics "
+    },
+    {
+        "id": "28395c9f-7c03-4cd8-a377-e45cce6ba732",
+        "pname": "Cardace 2.5 Tablet",
+        "psizeandcompany": "strip of 15 tabletsSanofi India  Ltd",
+        "mrp": 83.78,
+        "salts": "Ramipril (2.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1605790942/dwpbzqehmedcbw2c1ej8.jpg",
+        "product_url": "https://www.1mg.com/drugs/cardace-2.5-tablet-420698",
+        "category": " Ace Inhibitors Plain "
+    },
+    {
+        "id": "7bb95074-1385-41d2-93b2-b288fb94e868",
+        "pname": "Cardace Protect 5 Tablet",
+        "psizeandcompany": "strip of 10 tabletsSanofi India  Ltd",
+        "mrp": 292.07,
+        "salts": "Ramipril (5mg) + Atorvastatin (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529325419/tilqettgrggdbrkeq47p.jpg",
+        "product_url": "https://www.1mg.com/drugs/cardace-protect-5-tablet-157525",
+        "category": " Ace Inhibitors Statins Fibrate "
+    },
+    {
+        "id": "0a089ad6-0249-4570-8b81-7cc43beb6133",
+        "pname": "Vymada 50mg Tablet",
+        "psizeandcompany": "strip of 14 tabletsNovartis India Ltd",
+        "mrp": 1100.5,
+        "salts": "Sacubitril (24mg) + Valsartan (26mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600687601/jagbd42hi5pj7tnubhgt.png",
+        "product_url": "https://www.1mg.com/drugs/vymada-50mg-tablet-343972",
+        "category": " All Other Cardiac Preparations "
+    },
+    {
+        "id": "573010c8-e457-4b1c-a7f6-d5f036907eff",
+        "pname": "Lipaglyn Tablet",
+        "psizeandcompany": "strip of 10 tabletsZydus Cadila",
+        "mrp": 365.6,
+        "salts": "Saroglitazar (4mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535629114/dmutha9vrrqsssgljub1.jpg",
+        "product_url": "https://www.1mg.com/drugs/lipaglyn-tablet-322621",
+        "category": " All Other Cholesterol Triglyceride Regulators "
+    },
+    {
+        "id": "799a933a-4407-4ee4-bc26-de419403911b",
+        "pname": "Telma-R 5 Tablet",
+        "psizeandcompany": "strip of 10 tabletsGlenmark Pharmaceuticals Ltd",
+        "mrp": 202.5,
+        "salts": "Telmisartan (40mg) + Ramipril (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1526561758/wqagzvmmdlmeot7n8kzy.jpg",
+        "product_url": "https://www.1mg.com/drugs/telma-r-5-tablet-168119",
+        "category": " Angiotensin Ii Antagonists Ace Inhibitors "
+    },
+    {
+        "id": "bfd5f7f7-e033-4964-bc3c-eb647e39003b",
+        "pname": "Metosartan 50 Tablet ER",
+        "psizeandcompany": "strip of 10 tablet erSun Pharmaceutical Industries Ltd",
+        "mrp": 196.0,
+        "salts": "Telmisartan (40mg) + Metoprolol Succinate (50mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535628901/wimaxkt0qjjouzfeowuf.jpg",
+        "product_url": "https://www.1mg.com/drugs/metosartan-50-tablet-er-154227",
+        "category": " Angiotensin Ii Antagonists Beta Blockers "
+    },
+    {
+        "id": "dfca1e6c-cf87-4c0a-9db1-7649b9134d9c",
+        "pname": "Telma-AM Tablet",
+        "psizeandcompany": "strip of 15 tabletsGlenmark Pharmaceuticals Ltd",
+        "mrp": 234.5,
+        "salts": "Telmisartan (40mg) + Amlodipine (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535628901/hz9eshcuh9kq6sacveg5.jpg",
+        "product_url": "https://www.1mg.com/drugs/telma-am-tablet-164332",
+        "category": " Angiotensin Ii Antagonists Calcium Antagonists "
+    },
+    {
+        "id": "6700e2d6-f598-4471-a329-0fb87430710c",
+        "pname": "Telvas 3D Tablet",
+        "psizeandcompany": "strip of 10 tabletsAristo Pharmaceuticals Pvt Ltd",
+        "mrp": 89.5,
+        "salts": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535628900/xdd4p2fu9bq6g0uat0j6.jpg",
+        "product_url": "https://www.1mg.com/drugs/telvas-3d-tablet-138262",
+        "category": " Angiotensin Ii Antagonists Combined With Anti Hypertensives "
+    },
+    {
+        "id": "40965cec-27df-44dd-8633-3d7c69f81981",
+        "pname": "Telma H Tablet",
+        "psizeandcompany": "strip of 15 tabletsGlenmark Pharmaceuticals Ltd",
+        "mrp": 265.0,
+        "salts": "Telmisartan (40mg) + Hydrochlorothiazide (12.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535628905/y1ix4fgvc8fair0ik8qt.jpg",
+        "product_url": "https://www.1mg.com/drugs/telma-h-tablet-169462",
+        "category": " Angiotensin Ii Antagonists Diuretics "
+    },
+    {
+        "id": "02b84eea-edc5-4f62-baae-a20298438944",
+        "pname": "Telma 40 Tablet",
+        "psizeandcompany": "strip of 30 tabletsGlenmark Pharmaceuticals Ltd",
+        "mrp": 220.75,
+        "salts": "Telmisartan (40mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1533556582/e4hpj0yppqncbi0hfnbs.png",
+        "product_url": "https://www.1mg.com/drugs/telma-40-tablet-340679",
+        "category": " Angiotensin Ii Antagonists Plain "
+    },
+    {
+        "id": "e2e3d72f-f100-4151-b345-c0b553aba7b8",
+        "pname": "Arbitel-AV Tablet",
+        "psizeandcompany": "strip of 10 tabletsMicro Labs Ltd",
+        "mrp": 180.0,
+        "salts": "Telmisartan (40mg) + Atorvastatin (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534917028/k9qgbjhl9a1j4itmrjo8.jpg",
+        "product_url": "https://www.1mg.com/drugs/arbitel-av-tablet-164853",
+        "category": " Angiotensin Ii Antagonists Statins Fibrate "
+    },
+    {
+        "id": "6dcd1c58-41bd-42de-bb96-5f473db74f30",
+        "pname": "Flavedon MR Tablet",
+        "psizeandcompany": "strip of 10 tablet mrSerdia Pharmaceuticals India Pvt Ltd",
+        "mrp": 130.9,
+        "salts": "Trimetazidine (35mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535628905/j5dltcccx6imzg4ihj7e.jpg",
+        "product_url": "https://www.1mg.com/drugs/flavedon-mr-tablet-159457",
+        "category": " Anti Anginals "
+    },
+    {
+        "id": "75ceca30-df79-46a1-a36a-c8a51808c329",
+        "pname": "Cordarone Tablet",
+        "psizeandcompany": "strip of 10 tabletsSanofi India  Ltd",
+        "mrp": 63.77,
+        "salts": "Amiodarone (100mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1608620244/alcujxllhfvbks9ac9dh.jpg",
+        "product_url": "https://www.1mg.com/drugs/cordarone-tablet-43502",
+        "category": " Anti Arrhythmics "
+    },
+    {
+        "id": "e51d0ae1-1fd2-437f-bb16-4dfdd595ff40",
+        "pname": "Celepid Infusion",
+        "psizeandcompany": "bottle of 250 ml InfusionClaris Lifesciences Ltd",
+        "mrp": 560.0,
+        "salts": "Lecithin (1200mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/celepid-infusion-245140",
+        "category": " Anti Atheroma Preparations Of Natural Origin "
+    },
+    {
+        "id": "1e0e35a8-50da-4e56-9155-7862574e4774",
+        "pname": "Arkamin Tablet",
+        "psizeandcompany": "strip of 30 tabletsTorrent Pharmaceuticals Ltd",
+        "mrp": 66.05,
+        "salts": "Clonidine (100mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534917674/azshjseewgrghgoo3jzl.jpg",
+        "product_url": "https://www.1mg.com/drugs/arkamin-tablet-330260",
+        "category": " Antihypertensives Non Herbal Centrally Acting "
+    },
+    {
+        "id": "6a8b715b-e18d-48b3-a11d-e8e6528fe2ee",
+        "pname": "Minipress XL 5mg Tablet",
+        "psizeandcompany": "strip of 30 tabletsPfizer Ltd",
+        "mrp": 569.3,
+        "salts": "Prazosin (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534770587/vjdjf5uurmycvzp48ztv.jpg",
+        "product_url": "https://www.1mg.com/drugs/minipress-xl-5mg-tablet-126003",
+        "category": " Antihypertensives Non Herbal Peripherally Acting "
+    },
+    {
+        "id": "4e8e82f8-304a-41db-a65c-c57667d543b7",
+        "pname": "BP AT 5mg/50mg Tablet",
+        "psizeandcompany": "strip of 10 tabletsGujarat Terce Laboratories Ltd",
+        "mrp": 24.0,
+        "salts": "Amlodipine (5mg) + Atenolol (50mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/bp-at-5mg-50mg-tablet-268537",
+        "category": " Beta Blockers Combined With Calcium Antagonists "
+    },
+    {
+        "id": "124a8fe2-a4b9-4daa-ba7e-04bfb3b0d472",
+        "pname": "Tenoric 50 Tablet",
+        "psizeandcompany": "strip of 10 tabletsIpca Laboratories Ltd",
+        "mrp": 83.2,
+        "salts": "Atenolol (50mg) + Chlorthalidone (12.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534917044/zccglhgo6u6grw0qbpxa.jpg",
+        "product_url": "https://www.1mg.com/drugs/tenoric-50-tablet-167115",
+        "category": " Beta Blockers Combined With Diuretics "
+    },
+    {
+        "id": "238d43c6-d007-470d-baf7-1563d3abcbaa",
+        "pname": "A2  Tablet",
+        "psizeandcompany": "strip of 10 tabletsMedley Pharmaceuticals",
+        "mrp": 66.58,
+        "salts": "Atenolol (NA) + Atorvastatin (NA)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/a2-tablet-290358",
+        "category": " Beta Blockers Statins Fibrate "
+    },
+    {
+        "id": "2ec209f6-1f18-47b4-bf62-4e279fde5049",
+        "pname": "Prolomet R 25 Tablet ER",
+        "psizeandcompany": "strip of 10 tablet erSun Pharmaceutical Industries Ltd",
+        "mrp": 160.0,
+        "salts": "Metoprolol Succinate (25mg) + Ramipril (2.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1531402795/mgxatynoxgajjzsrnxg9.jpg",
+        "product_url": "https://www.1mg.com/drugs/prolomet-r-25-tablet-er-151475",
+        "category": " Beta Blocking Agents Combined With Ace Inhibitors "
+    },
+    {
+        "id": "c81ca90b-35f8-4846-9a2f-9ce687786525",
+        "pname": "Concor 5 Tablet",
+        "psizeandcompany": "strip of 10 tabletsMerck Ltd",
+        "mrp": 96.32,
+        "salts": "Bisoprolol (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537723745/zlcuzyliuniacfghuzqc.jpg",
+        "product_url": "https://www.1mg.com/drugs/concor-5-tablet-117202",
+        "category": " Beta Blocking Agents Plain "
+    },
+    {
+        "id": "235740c6-32c3-4b26-abb4-d767d723822c",
+        "pname": "Coversyl-AM 4/5 Tablet",
+        "psizeandcompany": "strip of 10 tabletsSerdia Pharmaceuticals India Pvt Ltd",
+        "mrp": 187.0,
+        "salts": "Amlodipine (5mg) + Perindopril erbumine (4mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537730779/pfauj07mkp4dwdudhhjq.jpg",
+        "product_url": "https://www.1mg.com/drugs/coversyl-am-4-5-tablet-63985",
+        "category": " Calcium Antagonists Combined With Ace Inhibitors "
+    },
+    {
+        "id": "0a0b2a4a-77c0-4452-b02a-aa30a561312a",
+        "pname": "Cilacar C Tablet",
+        "psizeandcompany": "strip of 10 tabletsJ B Chemicals and Pharmaceuticals Ltd",
+        "mrp": 114.19,
+        "salts": "Cilnidipine (10mg) + Chlorthalidone (12.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1531402790/nrwivgrxsckhjgxuuedj.jpg",
+        "product_url": "https://www.1mg.com/drugs/cilacar-c-tablet-152094",
+        "category": " Calcium Antagonists Combined With Anti Hypertensives "
+    },
+    {
+        "id": "42fec258-95c9-454d-9092-ce5f3670bb6c",
+        "pname": "Amlong-H Tablet",
+        "psizeandcompany": "strip of 15 tabletsMicro Labs Ltd",
+        "mrp": 106.0,
+        "salts": "Amlodipine (5mg) + Hydrochlorothiazide (12.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534917662/sogpspidjtnnwi9ow17v.jpg",
+        "product_url": "https://www.1mg.com/drugs/amlong-h-tablet-277251",
+        "category": " Calcium Antagonists Combined With Diuretics "
+    },
+    {
+        "id": "acfdf99f-8ad9-4e35-801e-e92eeff49709",
+        "pname": "Cilacar 10 Tablet",
+        "psizeandcompany": "strip of 15 tabletsJ B Chemicals and Pharmaceuticals Ltd",
+        "mrp": 160.2,
+        "salts": "Cilnidipine (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1605598221/pspog7wrcvl9fr7gt1wi.png",
+        "product_url": "https://www.1mg.com/drugs/cilacar-10-tablet-621485",
+        "category": " Calcium Antagonists Plain "
+    },
+    {
+        "id": "32f2244f-d366-40b5-bdd1-2d8704d19bfe",
+        "pname": "Modlip-AM Tablet",
+        "psizeandcompany": "strip of 10 tabletsTorrent Pharmaceuticals Ltd",
+        "mrp": 125.35,
+        "salts": "Amlodipine (2.5mg) + Atorvastatin (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/modlip-am-tablet-281876",
+        "category": " Calcium Antagonists Statins Fibrate "
+    },
+    {
+        "id": "1fcfcb2f-6749-4c8c-a242-8b439222dc04",
+        "pname": "Lanoxin Tablet",
+        "psizeandcompany": "strip of 10 tabletsGlaxo SmithKline Pharmaceuticals Ltd",
+        "mrp": 13.35,
+        "salts": "Digoxin (0.25mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537449413/nolbi5ra0ndrhxtjglfp.jpg",
+        "product_url": "https://www.1mg.com/drugs/lanoxin-tablet-39496",
+        "category": " Cardiac Glycosides And Combinations "
+    },
+    {
+        "id": "e98b68cc-0c9d-47fa-9808-eb1410c04201",
+        "pname": "Termin 30mg Injection",
+        "psizeandcompany": "vial of 10 ml InjectionNeon Laboratories Ltd",
+        "mrp": 216.0,
+        "salts": "Mephentermine (30mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/termin-30mg-injection-61820",
+        "category": " Cardiac Stimulants Excluding Cardiac Glycosides "
+    },
+    {
+        "id": "6de9dc75-2751-43b9-ae13-57365356f4e7",
+        "pname": "Lasilactone  50 Tablet",
+        "psizeandcompany": "strip of 10 tabletsSanofi India  Ltd",
+        "mrp": 48.73,
+        "salts": "Furosemide (20mg) + Spironolactone (50mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537755934/hfkop3y3zgqqt9kyp7fm.jpg",
+        "product_url": "https://www.1mg.com/drugs/lasilactone-50-tablet-65083",
+        "category": " Combination Of Two Diuretics "
+    },
+    {
+        "id": "83c3b16b-eeb1-4972-995f-c9fd5fadb177",
+        "pname": "Ivabrad 5 Tablet",
+        "psizeandcompany": "strip of 15 tabletsLupin Ltd",
+        "mrp": 338.55,
+        "salts": "Ivabradine (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600692215/zvtu4s2l7e1jovwxoryp.png",
+        "product_url": "https://www.1mg.com/drugs/ivabrad-5-tablet-401670",
+        "category": " Coronary Therapy Excluding Calcium Antagonists And Nitrites "
+    },
+    {
+        "id": "b4d9c41e-feb3-4b43-a5cc-e4a56164a370",
+        "pname": "Novoseven 1mg Injection",
+        "psizeandcompany": "vial of 1 InjectionNovo Nordisk India Pvt Ltd",
+        "mrp": 45750.0,
+        "salts": "Eptacog alfa (1mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/novoseven-1mg-injection-337406",
+        "category": " Direct Thrombin Inhibitors "
+    },
+    {
+        "id": "9bca57a9-5a58-4baf-8ad2-c5a955364f24",
+        "pname": "Lipicard 160 Tablet",
+        "psizeandcompany": "strip of 10 tabletsUSV Ltd",
+        "mrp": 148.5,
+        "salts": "Fenofibrate (160mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537786081/uevv7flvaegadvvwe5iu.jpg",
+        "product_url": "https://www.1mg.com/drugs/lipicard-160-tablet-65129",
+        "category": " Fibrates "
+    },
+    {
+        "id": "7facb4f8-a947-465c-b436-9e63b1e701c9",
+        "pname": "STANLIP EZ TABLET",
+        "psizeandcompany": "strip of 10 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 105.0,
+        "salts": "Fenofibrate (145mg) + Ezetimibe (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/stanlip-ez-tablet-164073",
+        "category": " Fibrates Combination "
+    },
+    {
+        "id": "f87287f7-c2d6-4a7f-8c68-61af2cbb53b1",
+        "pname": "Elaxim 40 Injection",
+        "psizeandcompany": "vial of 1 InjectionGennova Biopharmaceuticals Ltd",
+        "mrp": 43900.0,
+        "salts": "Tenecteplase (40mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/elaxim-40-injection-285874",
+        "category": " Fibrinolytics "
+    },
+    {
+        "id": "8b10d728-0121-405b-811f-2cfb475faa0a",
+        "pname": "Choltran Powder for Oral Suspension",
+        "psizeandcompany": "sachet of 5 gm GranulesAjanta Pharma Ltd",
+        "mrp": 67.3,
+        "salts": "Cholestyramine (4gm)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537726014/aog4i7ufepedndxgymhu.jpg",
+        "product_url": "https://www.1mg.com/drugs/choltran-powder-for-oral-suspension-69012",
+        "category": " Ion Exchange Resin "
+    },
+    {
+        "id": "025b8b2c-b8f2-4dab-ad0d-46f566863eb9",
+        "pname": "Lasix Tablet",
+        "psizeandcompany": "strip of 15 tabletsSanofi India  Ltd",
+        "mrp": 12.6,
+        "salts": "Furosemide (40mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537755857/vxnzdtvmltfj33ffia3u.jpg",
+        "product_url": "https://www.1mg.com/drugs/lasix-tablet-69762",
+        "category": " Loop Diuretics Plain "
+    },
+    {
+        "id": "95ad3c04-4f62-4c99-9dc8-ab044f0a5872",
+        "pname": "Sorbitrate 5 Tablet",
+        "psizeandcompany": "strip of 50 Sublingual tabletAbbott",
+        "mrp": 42.0,
+        "salts": "Isosorbide Dinitrate (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1622824295/iquayac10nildkll5kkk.jpg",
+        "product_url": "https://www.1mg.com/drugs/sorbitrate-5-tablet-73246",
+        "category": " Nitrites And Nitrates "
+    },
+    {
+        "id": "03c153da-03d3-4a4e-b657-cf38d5bca1f2",
+        "pname": "Xarelto 10mg Tablet",
+        "psizeandcompany": "strip of 7 tabletsBayer Pharmaceuticals Pvt Ltd",
+        "mrp": 1015.0,
+        "salts": "Rivaroxaban (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600930296/ijdfahudzcaomc2nuqze.jpg",
+        "product_url": "https://www.1mg.com/drugs/xarelto-10mg-tablet-325249",
+        "category": " Other Antithrombotic Agents "
+    },
+    {
+        "id": "47e8638b-947a-49ff-ac5f-e5ff49efac7b",
+        "pname": "Prolomet AM 50 Tablet PR",
+        "psizeandcompany": "strip of 10 Tablet prSun Pharmaceutical Industries Ltd",
+        "mrp": 116.0,
+        "salts": "Amlodipine (5mg) + Metoprolol Succinate (50mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1610612722/g1tytged9bbdcxum9aye.jpg",
+        "product_url": "https://www.1mg.com/drugs/prolomet-am-50-tablet-pr-72255",
+        "category": " Other Beta Blocking Agent Combinations "
+    },
+    {
+        "id": "16d5b314-284f-42f1-b412-edae51bab79a",
+        "pname": "Daflon 500mg Tablet",
+        "psizeandcompany": "strip of 10 tabletsSerdia Pharmaceuticals India Pvt Ltd",
+        "mrp": 137.5,
+        "salts": "Diosmin (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537455826/llpqzu9gsb3rdqkr0dix.jpg",
+        "product_url": "https://www.1mg.com/drugs/daflon-500mg-tablet-58828",
+        "category": " Other Cardiovascular Products "
+    },
+    {
+        "id": "0c370163-8f0a-4b34-8ead-5bf2df7ecb64",
+        "pname": "Mannitol 20% Infusion",
+        "psizeandcompany": "bottle of 350 ml InfusionAlbert David Ltd",
+        "mrp": 93.57,
+        "salts": "Mannitol (20% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/mannitol-20-infusion-251987",
+        "category": " Other Diuretics "
+    },
+    {
+        "id": "b7ce1077-e5a4-4162-bdc9-3917e9c4babc",
+        "pname": "CARDIOTONE 100MG INJECTION 20ML",
+        "psizeandcompany": "packet of 5 injectionsVhb Life Sciences Inc",
+        "mrp": 3230.0,
+        "salts": "Amrinone (100mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/cardiotone-100mg-injection-20ml-353538",
+        "category": " Positive Inotropic Agents "
+    },
+    {
+        "id": "e9d549db-ad11-4a76-acbb-c8a7a9c667e5",
+        "pname": "Aldactone Tablet",
+        "psizeandcompany": "strip of 15 tabletsRPG Life Sciences Ltd",
+        "mrp": 31.95,
+        "salts": "Spironolactone (25mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537762262/wxjxsugwqsf4khtkerag.jpg",
+        "product_url": "https://www.1mg.com/drugs/aldactone-tablet-116839",
+        "category": " Potassium Sparing Agents Plain "
+    },
+    {
+        "id": "535fde79-e9dc-482c-b6bc-73cfefe82ba0",
+        "pname": "Rasilez 150mg Tablet FC",
+        "psizeandcompany": "strip of 7 Tablet FCNovartis India Ltd",
+        "mrp": 342.75,
+        "salts": "Aliskiren (150mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/rasilez-150mg-tablet-fc-325051",
+        "category": " Renin Inhibitor "
+    },
+    {
+        "id": "3ffb6e38-7fb8-4012-8d31-7f09498c02ac",
+        "pname": "Rasilez Hct 150 mg/12.5 mg Tablet",
+        "psizeandcompany": "strip of 7 tabletsNovartis India Ltd",
+        "mrp": 342.75,
+        "salts": "Aliskiren (150mg) + Hydrochlorothiazide (12.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/rasilez-hct-150-mg-12.5-mg-tablet-258346",
+        "category": " Renin Inhibitor Combined With Anti Hypertensives "
+    },
+    {
+        "id": "3a59c52a-28dd-4c78-9778-3030a9a8d80f",
+        "pname": "Rosuvas 10 Tablet",
+        "psizeandcompany": "strip of 15 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 266.0,
+        "salts": "Rosuvastatin (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537761229/vazql6ajgjqdbzdm9x7m.jpg",
+        "product_url": "https://www.1mg.com/drugs/rosuvas-10-tablet-113791",
+        "category": " Statins "
+    },
+    {
+        "id": "df8dc457-5baf-4728-abfe-5a30884bac7b",
+        "pname": "Tonact-TG Tablet",
+        "psizeandcompany": "strip of 15 tabletsLupin Ltd",
+        "mrp": 399.0,
+        "salts": "Atorvastatin (10mg) + Fenofibrate (160mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534770586/vvobyjyylxrejiwkbrp8.jpg",
+        "product_url": "https://www.1mg.com/drugs/tonact-tg-tablet-132539",
+        "category": " Statins Combination "
+    },
+    {
+        "id": "7b0992d7-afe7-41a3-91b9-4b960d8a9a2e",
+        "pname": "Ecosprin-AV 75 Capsule",
+        "psizeandcompany": "strip of 15 capsulesUSV Ltd",
+        "mrp": 55.16,
+        "salts": "Atorvastatin (10mg) + Aspirin (75mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535628903/dtu2du2u842t8tj28tzl.jpg",
+        "product_url": "https://www.1mg.com/drugs/ecosprin-av-75-capsule-123637",
+        "category": " Statins Combined With Anti Platelet Drugs "
+    },
+    {
+        "id": "f5614c1a-f3b7-4e3c-ae2b-d6a94adc4202",
+        "pname": "Roseday-EZ Tablet",
+        "psizeandcompany": "strip of 10 tabletsUSV Ltd",
+        "mrp": 231.0,
+        "salts": "Rosuvastatin (10mg) + Ezetimibe (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1560236847/z61qcbtjnwxe41inulcj.jpg",
+        "product_url": "https://www.1mg.com/drugs/roseday-ez-tablet-517748",
+        "category": " Statins Combined With Ezetimibe "
+    },
+    {
+        "id": "58834fce-edf5-4591-a602-d5f043b46847",
+        "pname": "Rosuvas F 10 Tablet",
+        "psizeandcompany": "strip of 15 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 337.0,
+        "salts": "Fenofibrate (160mg) + Rosuvastatin (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537726192/btwpyj8pi7exhcikk9fj.jpg",
+        "product_url": "https://www.1mg.com/drugs/rosuvas-f-10-tablet-70088",
+        "category": " Statins Combined With Fibrates "
+    },
+    {
+        "id": "66736592-0989-497c-bb9b-ff7d68f3b751",
+        "pname": "Ramitorva   Capsule",
+        "psizeandcompany": "strip of 10 capsulesZydus Cadila",
+        "mrp": 38.7,
+        "salts": "Atorvastatin (10mg) + Aspirin (75mg) + Ramipril (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529930873/hbswrhgwazb5qpmoxtma.jpg",
+        "product_url": "https://www.1mg.com/drugs/ramitorva-capsule-149455",
+        "category": " Statins Combined With Other Lipid Regulators "
+    },
+    {
+        "id": "336b49a2-8087-4d9f-8df2-cc6cb8a3a544",
+        "pname": "Dytor 10 Tablet",
+        "psizeandcompany": "strip of 15 tabletsCipla Ltd",
+        "mrp": 77.19,
+        "salts": "Torasemide (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537723661/zrahjkzvtmrbbdtqrslg.jpg",
+        "product_url": "https://www.1mg.com/drugs/dytor-10-tablet-69077",
+        "category": " Thiazides And Analogues Plain "
+    },
+    {
+        "id": "1ec3e9c0-d3fa-4f3e-97d0-688baf9be368",
+        "pname": "Smuth Cream",
+        "psizeandcompany": "tube of 30 gm Rectal CreamAristo Pharmaceuticals Pvt Ltd",
+        "mrp": 116.7,
+        "salts": "Lidocaine (3% w/w) + Calcium Dobesilate (0.25% w/w) + Hydrocortisone (0.25% w/w) + Zinc (5% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537454325/iwtye0zzl2nx0h8hgaxr.jpg",
+        "product_url": "https://www.1mg.com/drugs/smuth-cream-113915",
+        "category": " Topical Anti Haemorrhoidals "
+    },
+    {
+        "id": "b2a7990d-dc87-4401-a4a2-5665f623c7a7",
+        "pname": "Acitrom 2 Tablet",
+        "psizeandcompany": "strip of 30 tabletsAbbott",
+        "mrp": 377.3,
+        "salts": "Acenocoumarol (2mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537453415/szdkuj54ahphltecav8b.jpg",
+        "product_url": "https://www.1mg.com/drugs/acitrom-2-tablet-113478",
+        "category": " Vitamin K Antagonists Cardiac "
+    },
+    {
+        "id": "25685bba-cec4-411d-8451-c2fbc5755bb2",
+        "pname": "C Win Cream",
+        "psizeandcompany": "tube of 30 gm CreamSun Pharmaceutical Industries Ltd",
+        "mrp": 202.0,
+        "salts": "Ciclopirox (1% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1621255662/nbh8yuk75u1vbvtnh1oh.jpg",
+        "product_url": "https://www.1mg.com/drugs/c-win-cream-473201",
+        "category": " Anti Dandruff "
+    },
+    {
+        "id": "4c2b8060-a8e6-484f-8094-64983dbf2562",
+        "pname": "Hadensa Ointment",
+        "psizeandcompany": "tube of 40 gm OintmentDollar",
+        "mrp": 145.0,
+        "salts": "Lanolin (100% w/w) + Lidocaine (1% w/w) + Menthol (1% w/w) + Thymol (0.5% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529325429/okztqwc5zgv6dksqrl5v.jpg",
+        "product_url": "https://www.1mg.com/drugs/hadensa-ointment-157549",
+        "category": " Anti Pruritics Including Topical Antihistamines Anaesthetics Etc "
+    },
+    {
+        "id": "a73ec0fe-1a01-4528-9c36-9e1ac291b157",
+        "pname": "Hexidine Mouth Wash",
+        "psizeandcompany": "bottle of 160 ml Mouth WashIcpa Health Products Ltd",
+        "mrp": 109.3,
+        "salts": "Chlorhexidine Gluconate (0.2% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537762336/rnfjpuguepjfapvrfteq.jpg",
+        "product_url": "https://www.1mg.com/drugs/hexidine-mouth-wash-55390",
+        "category": " Antiseptics And Disinfectants Human Use "
+    },
+    {
+        "id": "04867e3f-0906-41d5-8126-1de21049a655",
+        "pname": "Skinshine Cream",
+        "psizeandcompany": "tube of 15 gm CreamCadila Pharmaceuticals Ltd",
+        "mrp": 145.0,
+        "salts": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1618229055/he2epfeqtofj4p4tcree.jpg",
+        "product_url": "https://www.1mg.com/drugs/skinshine-cream-159981",
+        "category": " Demelanising Agents "
+    },
+    {
+        "id": "0aa4df69-9929-40f7-8ef9-fa1e6121eaef",
+        "pname": "Crotorax Cream",
+        "psizeandcompany": "tube of 20 gm CreamAbbott",
+        "mrp": 60.11,
+        "salts": "Crotamiton (10% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529325415/cfaoii7696rb4ydcdefi.jpg",
+        "product_url": "https://www.1mg.com/drugs/crotorax-cream-148065",
+        "category": " Ectoparasiticides Including Scabicides "
+    },
+    {
+        "id": "7b8a6bd5-275e-4fea-b205-3516b31a02e2",
+        "pname": "Moiz XL Cream",
+        "psizeandcompany": "jar of 500 gm CreamGlowderma Labs Pvt Ltd",
+        "mrp": 700.0,
+        "salts": "Cetyl Alcohol (2% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1547551052/qffoxlz2zsxpvksbgev7.png",
+        "product_url": "https://www.1mg.com/drugs/moiz-xl-cream-491687",
+        "category": " Emollients Protectives "
+    },
+    {
+        "id": "dd4e19f1-375a-464c-b15f-23bedb316e40",
+        "pname": "Mintop Forte 5% Solution",
+        "psizeandcompany": "bottle of 60 ml SolutionDr Reddy's Laboratories Ltd",
+        "mrp": 868.25,
+        "salts": "Minoxidil (5% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1616005705/oplzikmend0webvnrjit.jpg",
+        "product_url": "https://www.1mg.com/drugs/mintop-forte-5-solution-328741",
+        "category": " Haircare Products "
+    },
+    {
+        "id": "591f03b4-cf64-406d-8be6-7262e186e0fc",
+        "pname": "Melanocyl Tablet",
+        "psizeandcompany": "strip of 40 tabletsFranco-Indian Pharmaceuticals Pvt Ltd",
+        "mrp": 139.34,
+        "salts": "Methoxsalen (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537762967/com6cyyqhqvrza6kgibg.jpg",
+        "product_url": "https://www.1mg.com/drugs/melanocyl-tablet-115561",
+        "category": " Melanising Agents "
+    },
+    {
+        "id": "bd0d2f03-dae1-4815-962b-ae8daf7a6c96",
+        "pname": "Isotroin 20 Capsule",
+        "psizeandcompany": "strip of 10 soft gelatin capsulesCipla Ltd",
+        "mrp": 299.0,
+        "salts": "Isotretinoin (20mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537756066/difizjqcptdcqskhljri.jpg",
+        "product_url": "https://www.1mg.com/drugs/isotroin-20-capsule-33084",
+        "category": " Oral Anti Acne Preparations "
+    },
+    {
+        "id": "d69df9f7-fbc4-4876-95b9-5dab6abd7285",
+        "pname": "Burnheal Cream",
+        "psizeandcompany": "tube of 15 gm CreamCipla Ltd",
+        "mrp": 74.5,
+        "salts": "Chlorhexidine Gluconate (0.20% w/w) + Silver Nitrate (0.20% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537766517/yivneq3ch69i2obqmvn3.jpg",
+        "product_url": "https://www.1mg.com/drugs/burnheal-cream-58607",
+        "category": " Other Dermatological Preparations "
+    },
+    {
+        "id": "ab7d1c06-7827-4ada-9dc0-430b3db89c2c",
+        "pname": "Pacroma Cream",
+        "psizeandcompany": "tube of 10 gm CreamAjanta Pharma Ltd",
+        "mrp": 621.0,
+        "salts": "Pimecrolimus (1% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455271/rawrgsx9xwj4hpp0sath.jpg",
+        "product_url": "https://www.1mg.com/drugs/pacroma-cream-140260",
+        "category": " Other Non Steroidal Products For Inflammatory Skin Disorders "
+    },
+    {
+        "id": "d7c983f4-ae3a-4507-9cb8-09b7fb71824c",
+        "pname": "Kenacort 40mg Injection",
+        "psizeandcompany": "vial of 1 ml InjectionAbbott",
+        "mrp": 140.49,
+        "salts": "Triamcinolone (40mg/ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537456294/d4nxxpt4qqpgpwxcufrg.jpg",
+        "product_url": "https://www.1mg.com/drugs/kenacort-40mg-injection-13489",
+        "category": " Plain Topical Corticosteroids "
+    },
+    {
+        "id": "5a27b733-e9bf-4d6a-ab0b-d25939253dac",
+        "pname": "Hairmax Forte Solution",
+        "psizeandcompany": "bottle of 60 ml SolutionApple Therapeutics Pvt Ltd",
+        "mrp": 623.0,
+        "salts": "Hydrocortisone (0.01% w/v) + Minoxidil (5% w/v) + Tretinoin (0.025% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1530272409/wlwhh04qem5og66qk1od.jpg",
+        "product_url": "https://www.1mg.com/drugs/hairmax-forte-solution-294858",
+        "category": " Skin Dermal Epidermal Preparations "
+    },
+    {
+        "id": "d2870fde-25b0-4e64-84ad-b3e62b4c912d",
+        "pname": "Acrotac 25mg Capsule",
+        "psizeandcompany": "strip of 20 capsulesSun Pharmaceutical Industries Ltd",
+        "mrp": 1570.0,
+        "salts": "Acitretin (25mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537448687/afqxy9qlycafp4dirvzd.jpg",
+        "product_url": "https://www.1mg.com/drugs/acrotac-25mg-capsule-40862",
+        "category": " Systemic Antipsoriasis Prodcuts "
+    },
+    {
+        "id": "70764db7-2f4d-4766-92e9-d336efb54530",
+        "pname": "Persol  AC 2.5 Gel",
+        "psizeandcompany": "tube of 30 gm GelWallace Pharmaceuticals Pvt Ltd",
+        "mrp": 117.48,
+        "salts": "Benzoyl Peroxide (2.5% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1571809332/w2ntlh4owwhi08dk8v3s.jpg",
+        "product_url": "https://www.1mg.com/drugs/persol-ac-2.5-gel-398087",
+        "category": " Topical Anti Acne Preparations "
+    },
+    {
+        "id": "437b4d2f-6846-4e85-8d31-b66807430c60",
+        "pname": "Soframycin 1% Skin Cream",
+        "psizeandcompany": "tube of 30 gm CreamSanofi India  Ltd",
+        "mrp": 50.33,
+        "salts": "Framycetin (1% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535629022/mgqdxgtfen172wn8yhs6.jpg",
+        "product_url": "https://www.1mg.com/drugs/soframycin-1-skin-cream-289993",
+        "category": " Topical Antibiotics And Or Sulphonamids "
+    },
+    {
+        "id": "701aad7d-74be-4397-9c35-b996afb387e6",
+        "pname": "Sorvate C Ointment",
+        "psizeandcompany": "tube of 15 gm OintmentGlenmark Pharmaceuticals Ltd",
+        "mrp": 347.0,
+        "salts": "Calcitriol (0.0003% w/w) + Clobetasol (0.05% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1531402879/hkwt9qyveprwrcqamvcj.jpg",
+        "product_url": "https://www.1mg.com/drugs/sorvate-c-ointment-340790",
+        "category": " Topical Antipsoriasis Products "
+    },
+    {
+        "id": "34589729-3615-4098-a4fc-b1e9723dac3d",
+        "pname": "Acivir Cream",
+        "psizeandcompany": "tube of 5 gm CreamCipla Ltd",
+        "mrp": 72.53,
+        "salts": "Acyclovir (5% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1526561757/yc4u12wftkmqn3diieue.jpg",
+        "product_url": "https://www.1mg.com/drugs/acivir-cream-158993",
+        "category": " Topical Antivirals "
+    },
+    {
+        "id": "72063467-20e3-4906-8a2c-dc161dcc421c",
+        "pname": "Terbinaforce-Plus NF Cream",
+        "psizeandcompany": "tube of 15 gm CreamMankind Pharma Ltd",
+        "mrp": 54.45,
+        "salts": "Clotrimazole (1% w/w) + Clobetasol (0.05% w/w) + Neomycin (0.5% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1571856947/fije0r3tbcvs2jnjkhid.jpg",
+        "product_url": "https://www.1mg.com/drugs/terbinaforce-plus-nf-cream-547914",
+        "category": " Topical Corticosteroid Combinations "
+    },
+    {
+        "id": "661062a1-b356-42cc-8c22-5f53f9005652",
+        "pname": "Fungicros Cream",
+        "psizeandcompany": "tube of 10 gm CreamSun Pharmaceutical Industries Ltd",
+        "mrp": 183.0,
+        "salts": "Amorolfine (0.25% w/w) + Phenoxyethanol (1% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455619/k4pylzwoxezrwi9dazyr.jpg",
+        "product_url": "https://www.1mg.com/drugs/fungicros-cream-342660",
+        "category": " Topical Dermatological Antifungals "
+    },
+    {
+        "id": "964be8b0-2ede-4622-8ab2-84a90aa82353",
+        "pname": "Redotil 100mg Capsule",
+        "psizeandcompany": "strip of 15 capsulesDr Reddy's Laboratories Ltd",
+        "mrp": 321.25,
+        "salts": "Racecadotril (100mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1527058150/rycsyt05ckbu1ox07ftr.jpg",
+        "product_url": "https://www.1mg.com/drugs/redotil-100mg-capsule-369860",
+        "category": " All Other Antidiarrhoeals "
+    },
+    {
+        "id": "96985eb4-c5fd-4c70-9029-eaaef46fff3f",
+        "pname": "Mucaine Gel Mint",
+        "psizeandcompany": "bottle of 200 ml Oral GelPfizer Ltd",
+        "mrp": 182.97,
+        "salts": "Oxetacaine (10mg/5ml) + Aluminium Hydroxide (0.291gm/5ml) + Milk Of Magnesia (98mg/5ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600687993/mp6ozqbwct5o6zjeppek.png",
+        "product_url": "https://www.1mg.com/drugs/mucaine-gel-mint-156848",
+        "category": " All Other Anti Ulcerants "
+    },
+    {
+        "id": "3c7caa5e-bde7-4fe4-b261-7f63c89b0ca8",
+        "pname": "Amicline Tablet",
+        "psizeandcompany": "strip of 10 tabletsFranco-Indian Pharmaceuticals Pvt Ltd",
+        "mrp": 11.7,
+        "salts": "Diloxanide (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537756527/rvfeg6xu3vcv2st5mmmy.jpg",
+        "product_url": "https://www.1mg.com/drugs/amicline-tablet-39511",
+        "category": " Amebicides Gastro "
+    },
+    {
+        "id": "b29379fe-4242-4d5a-b463-c680852b5912",
+        "pname": "Ondem -MD 4 Tablet",
+        "psizeandcompany": "strip of 10 tablet mdAlkem Laboratories Ltd",
+        "mrp": 52.61,
+        "salts": "Ondansetron (4mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534917028/jjxrmdjpe2lqcnst9tgn.jpg",
+        "product_url": "https://www.1mg.com/drugs/ondem-md-4-tablet-201739",
+        "category": " Antacids Antiflatulents And Carminatives "
+    },
+    {
+        "id": "23e7aa0a-d9ed-4b18-b760-8faec4991667",
+        "pname": "Econorm 250mg Capsule",
+        "psizeandcompany": "strip of 5 capsulesDr Reddy's Laboratories Ltd",
+        "mrp": 184.0,
+        "salts": "Saccharomyces boulardii (250mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529930876/vizjuy78nmf3wv0dzocn.jpg",
+        "product_url": "https://www.1mg.com/drugs/econorm-250mg-capsule-121943",
+        "category": " Antidiarrhoeal Micro Organisms "
+    },
+    {
+        "id": "9992937e-afb1-4b9e-a57e-14d61d2e1e7a",
+        "pname": "Cyclopam Tablet",
+        "psizeandcompany": "strip of 10 tabletsIndoco Remedies Ltd",
+        "mrp": 51.2,
+        "salts": "Dicyclomine (20mg) + Paracetamol (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1615384673/ucqs2iy7biknsfdyhsbo.jpg",
+        "product_url": "https://www.1mg.com/drugs/cyclopam-tablet-64028",
+        "category": " Antispasmodic Analgesic Combinations "
+    },
+    {
+        "id": "5f63705e-1674-4d2d-a56c-c2315564ddde",
+        "pname": "Normaxin Tablet",
+        "psizeandcompany": "strip of 10 tabletsSystopic Laboratories Pvt Ltd",
+        "mrp": 23.0,
+        "salts": "Clidinium (2.5mg) + Chlordiazepoxide (5mg) + Dicyclomine (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1532517622/pfly1ectqs3jzezuzpob.jpg",
+        "product_url": "https://www.1mg.com/drugs/normaxin-tablet-155305",
+        "category": " Antispasmodic Ataractic Combinations "
+    },
+    {
+        "id": "e9be161d-2cd7-47d2-a2d9-1174c00a8f1b",
+        "pname": "Drotin-M Tablet",
+        "psizeandcompany": "strip of 10 tabletsWalter Bushnell",
+        "mrp": 176.14,
+        "salts": "Drotaverine (80mg) + Mefenamic Acid (250mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537756139/q6s5nzgxvmloprgitmq0.jpg",
+        "product_url": "https://www.1mg.com/drugs/drotin-m-tablet-64227",
+        "category": " Antispasmodics Combined With Other Products "
+    },
+    {
+        "id": "083851e2-6d15-46c8-b07e-51e945d1a4b5",
+        "pname": "PAN 40 Tablet",
+        "psizeandcompany": "strip of 15 tabletsAlkem Laboratories Ltd",
+        "mrp": 149.0,
+        "salts": "Pantoprazole (40mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1532517693/rhqxp1hutcnkcdjbeapd.jpg",
+        "product_url": "https://www.1mg.com/drugs/pan-40-tablet-325250",
+        "category": " Anti Ulcerants Acid Pump Inhibitors "
+    },
+    {
+        "id": "c8eff1fa-e51c-4eaf-aac1-ec7da24517cc",
+        "pname": "Aciloc 150 Tablet",
+        "psizeandcompany": "strip of 30 tabletsCadila Pharmaceuticals Ltd",
+        "mrp": 36.96,
+        "salts": "Ranitidine (150mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455273/ogfwolxtutjau5qgmqth.jpg",
+        "product_url": "https://www.1mg.com/drugs/aciloc-150-tablet-134660",
+        "category": " Anti Ulcerants H2 Antagonists "
+    },
+    {
+        "id": "829bbe5c-bd03-4e59-b4c2-1562bb9c4fac",
+        "pname": "Misoprost 200 Tablet",
+        "psizeandcompany": "strip of 4 tabletsCipla Ltd",
+        "mrp": 74.56,
+        "salts": "Misoprostol (200mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534770687/utd6qpstyaviest1axua.jpg",
+        "product_url": "https://www.1mg.com/drugs/misoprost-200-tablet-337919",
+        "category": " Anti Ulcerants Prostaglandins "
+    },
+    {
+        "id": "74009f3d-ae75-4a4a-9ffe-ac59d0654dfe",
+        "pname": "Pantocid HP Combipack",
+        "psizeandcompany": "strip of 6 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 168.0,
+        "salts": "Amoxycillin (750mg) + Pantoprazole (40mg) + Clarithromycin (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529325424/jg21orjkohppsvhaivv4.jpg",
+        "product_url": "https://www.1mg.com/drugs/pantocid-hp-combipack-151949",
+        "category": " Anti Ulcerants With Antibiotics "
+    },
+    {
+        "id": "9b214c84-6d7c-445d-8897-c337ad9f609b",
+        "pname": "Udiliv 300 Tablet",
+        "psizeandcompany": "strip of 15 tabletsAbbott",
+        "mrp": 631.09,
+        "salts": "Ursodeoxycholic Acid (300mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535629111/kp3ppdtdy5ug0bdeique.jpg",
+        "product_url": "https://www.1mg.com/drugs/udiliv-300-tablet-359544",
+        "category": " Bile Therapy And Cholagogues Bile Stone Therapy "
+    },
+    {
+        "id": "3bd98627-844f-4acc-b70c-b4e3fcc86667",
+        "pname": "Lactifiber  Granules",
+        "psizeandcompany": "box of 180 gm GranulesSun Pharmaceutical Industries Ltd",
+        "mrp": 385.0,
+        "salts": "Lactitol (10gm) + Ispaghula (3.5gm)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537769248/tafkrjmpmovwo5gnmxbi.jpg",
+        "product_url": "https://www.1mg.com/drugs/lactifiber-granules-59360",
+        "category": " Bulk Producers "
+    },
+    {
+        "id": "97fe0b47-65e3-4137-b908-3c08b9e8a3f9",
+        "pname": "Liv Pure DS Syrup",
+        "psizeandcompany": "bottle of 200 ml SyrupBrahamputra Research Pvt Ltd",
+        "mrp": 150.0,
+        "salts": "Tricholine Citrate (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/liv-pure-ds-syrup-464258",
+        "category": " Cholagogue Lipotropic Combinations "
+    },
+    {
+        "id": "8474d9ef-61da-4a65-a4da-1dacfee76d1e",
+        "pname": "Cremaffin Plus  Syrup Refreshing Sugar Free",
+        "psizeandcompany": "bottle of 225 ml SyrupAbbott",
+        "mrp": 246.12,
+        "salts": "Sodium Picosulfate (3.33mg) + Liquid Paraffin (1.25ml) + Milk Of Magnesia (3.75ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600930402/vw7yqjnn3obqkcs1kht0.jpg",
+        "product_url": "https://www.1mg.com/drugs/cremaffin-plus-syrup-refreshing-sugar-free-357685",
+        "category": " Contact Laxatives "
+    },
+    {
+        "id": "1491bc85-9a85-4bdd-b94e-844ce3e249df",
+        "pname": "Camopan 100mg Tablet",
+        "psizeandcompany": "strip of 10 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 125.0,
+        "salts": "Camostat (100mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/camopan-100mg-tablet-300299",
+        "category": " Drugs For Pancreatic Disorder "
+    },
+    {
+        "id": "2731219e-0a79-4d1c-890d-2db1b2cecd0f",
+        "pname": "Osil Cream",
+        "psizeandcompany": "tube of 30 gm Rectal CreamOzone Pharmaceuticals Ltd",
+        "mrp": 99.77,
+        "salts": "Allantoin  (0.5% w/w) +  Calcium Dobesilate  (0.5% w/w) +  Hydrocortisone  (0.25% w/w) +  Lidocaine/Lignocaine (3% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537755538/hodg0fse42fgeqltuwix.jpg",
+        "product_url": "https://www.1mg.com/drugs/osil-cream-115860",
+        "category": " Enemas "
+    },
+    {
+        "id": "aa3b9119-8094-447d-ab63-d50713444619",
+        "pname": "Lupizyme SF Syrup Sugar Free",
+        "psizeandcompany": "bottle of 200 ml SyrupLupin Ltd",
+        "mrp": 125.0,
+        "salts": "Alpha-amylase (18.75mg) + Pepsin (12.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/lupizyme-sf-syrup-sugar-free-636813",
+        "category": " Enzyme Combinations "
+    },
+    {
+        "id": "8cf06464-5b85-46f4-b468-93c05a5f3c27",
+        "pname": "TAGON 6 MG TABLET",
+        "psizeandcompany": "strip of 10 tabletsIntas Pharmaceuticals Ltd",
+        "mrp": 78.65,
+        "salts": "Tegaserod (6mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/tagon-6-mg-tablet-287659",
+        "category": " Gastro Intestinal Sensorimotor Modulators "
+    },
+    {
+        "id": "d1d1315e-ff1e-4cdc-a1ac-ab7e7769d3e4",
+        "pname": "Pan-D Capsule PR",
+        "psizeandcompany": "strip of 15 capsule prAlkem Laboratories Ltd",
+        "mrp": 190.0,
+        "salts": "Domperidone (30mg) + Pantoprazole (40mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600691047/lyithfbxvttznaey41al.png",
+        "product_url": "https://www.1mg.com/drugs/pan-d-capsule-pr-343042",
+        "category": " Gastroprokinetics "
+    },
+    {
+        "id": "ae6955b2-18f3-459b-b8c3-d6f2abdf3558",
+        "pname": "Reheptin Tablet",
+        "psizeandcompany": "strip of 10 tabletsMankind Pharma Ltd",
+        "mrp": 300.0,
+        "salts": "Metadoxine (500mg) + Silymarin (140mg) + L-Ornithine L-Aspartate (150mg) + Vitamin B6 (Pyridoxine) (3mg) + Folic Acid (1.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1532517619/bonu3uahh1wn8g8lhfqc.jpg",
+        "product_url": "https://www.1mg.com/drugs/reheptin-tablet-278859",
+        "category": " Hepatic Protectors Lipotropics "
+    },
+    {
+        "id": "06343614-5275-4dec-8c02-ef66b941c4f8",
+        "pname": "Metrogyl 400 Tablet",
+        "psizeandcompany": "strip of 15 tabletsJ B Chemicals and Pharmaceuticals Ltd",
+        "mrp": 21.5,
+        "salts": "Metronidazole (400mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1613394443/ghev5iuojkcmfkn3u4qk.jpg",
+        "product_url": "https://www.1mg.com/drugs/metrogyl-400-tablet-18645",
+        "category": " Intestinal Anti Infective Antidiarrhoeals "
+    },
+    {
+        "id": "92b1c0d2-1152-4830-bec2-7ef8bfad203d",
+        "pname": "VSL 3 Capsule",
+        "psizeandcompany": "strip of 10 capsulesSun Pharmaceutical Industries Ltd",
+        "mrp": 391.0,
+        "salts": "Live Freeze Dried Lactic Acid Bacteria and Bifidobacteria (112.5Billion CFU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537443829/nqxk0atu0ocpujt1tnzf.jpg",
+        "product_url": "https://www.1mg.com/drugs/vsl-3-capsule-114283",
+        "category": " Intestinal Anti Inflammatory Agents "
+    },
+    {
+        "id": "19857772-57b0-43c2-ae93-e715c308812c",
+        "pname": "Imodium Capsule",
+        "psizeandcompany": "strip of 4 capsulesJanssen Pharmaceuticals",
+        "mrp": 15.8,
+        "salts": "Loperamide (2mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455271/ut7ezvemt1fj7cf9wfml.jpg",
+        "product_url": "https://www.1mg.com/drugs/imodium-capsule-135618",
+        "category": " Motility Inhibitors "
+    },
+    {
+        "id": "0f5f3ca1-5aee-4437-b60a-7a5dd6c8b671",
+        "pname": "Looz Peg Oral Solution Orange",
+        "psizeandcompany": "bottle of 200 ml Oral SolutionIntas Pharmaceuticals Ltd",
+        "mrp": 356.0,
+        "salts": "Polyethylene Glycol (13.125gm)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1591794498/txy28gxs4vkfjnvot0of.jpg",
+        "product_url": "https://www.1mg.com/drugs/looz-peg-oral-solution-orange-489529",
+        "category": " Oral Saline Preparations "
+    },
+    {
+        "id": "bcf4af7f-31e1-4a48-8847-fc714389421f",
+        "pname": "Doxinate Tablet",
+        "psizeandcompany": "strip of 30 tabletsManeesh Pharmaceuticals Ltd",
+        "mrp": 208.35,
+        "salts": "Doxylamine (10mg) + Vitamin B6 (Pyridoxine) (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534917042/xicvdl5xnjvpzlsb4vyz.jpg",
+        "product_url": "https://www.1mg.com/drugs/doxinate-tablet-169183",
+        "category": " Other Antiemetics And Antinauseants "
+    },
+    {
+        "id": "4eca2520-9d87-4321-a510-f95f450f5016",
+        "pname": "Smuth Oral Suspension",
+        "psizeandcompany": "bottle of 110 ml Oral SuspensionAristo Pharmaceuticals Pvt Ltd",
+        "mrp": 75.0,
+        "salts": "Liquid Paraffin (1.25ml/5ml) + Milk of Magnesia (300mg/5ml) + Sodium Picosulfate (3.33mg/5ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455395/wwjsyafvxzbkvj9blwx6.jpg",
+        "product_url": "https://www.1mg.com/drugs/smuth-oral-suspension-153463",
+        "category": " Other Laxatives "
+    },
+    {
+        "id": "04c4a1af-b161-4fac-900b-c01ef6bc8c02",
+        "pname": "Ulsedin Tablet",
+        "psizeandcompany": "strip of 10 tabletsSouth India Research Institute Pvt Ltd",
+        "mrp": 14.0,
+        "salts": "Diazepam (2.5mg) + Aluminium Hydroxide (100mg) + Propantheline (15mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/ulsedin-tablet-466356",
+        "category": " Other Stomac Disorder Preparations "
+    },
+    {
+        "id": "5eb8c2e8-2192-431d-8f58-008f6a19211e",
+        "pname": "Enzar Forte  Tablet",
+        "psizeandcompany": "strip of 15 tabletsTorrent Pharmaceuticals Ltd",
+        "mrp": 148.95,
+        "salts": "Pancreatin (170mg) + Sodium Tauroglycocholate (65mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537453569/qq2oaiax5zvyns2taulp.jpg",
+        "product_url": "https://www.1mg.com/drugs/enzar-forte-tablet-64340",
+        "category": " Pancreatic Enzymes "
+    },
+    {
+        "id": "44be0082-123a-451c-884f-c4d6a96b3e48",
+        "pname": "Ibset Tablet",
+        "psizeandcompany": "strip of 10 tabletsZydus Cadila",
+        "mrp": 413.35,
+        "salts": "Ramosetron (5mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537769590/stubrke4p83nvwd2bi8b.jpg",
+        "product_url": "https://www.1mg.com/drugs/ibset-tablet-115308",
+        "category": " Serotonin Antagonist Antiemetics Antinauseants "
+    },
+    {
+        "id": "f0f5ea39-d1e0-45b9-81d5-9c3f902f5228",
+        "pname": "Duphalac Oral Solution Lemon",
+        "psizeandcompany": "bottle of 450 ml Oral SolutionAbbott",
+        "mrp": 517.78,
+        "salts": "Lactulose (3.335gm/5ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1602243298/mfvmj446zag1p6zp7taj.png",
+        "product_url": "https://www.1mg.com/drugs/duphalac-oral-solution-lemon-405369",
+        "category": " Softners Emollients "
+    },
+    {
+        "id": "63ed0804-47aa-45b3-a308-0fca4871bb10",
+        "pname": "Tinicline 250 mg/300 mg Tablet",
+        "psizeandcompany": "strip of 10 tabletsEskag Pharma Pvt Ltd",
+        "mrp": 60.0,
+        "salts": "Tetracycline (250mg) + Tinidazole (300mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/tinicline-250-mg-300-mg-tablet-268919",
+        "category": " Tetracyclines And Combinations Gastro "
+    },
+    {
+        "id": "9a9a3abf-ae62-4ec8-b974-eda8dda1c6b2",
+        "pname": "Clingen Forte  Vaginal Capsule",
+        "psizeandcompany": "packet of 7 Vaginal CapsulesAristo Pharmaceuticals Pvt Ltd",
+        "mrp": 155.0,
+        "salts": "Clindamycin (100mg) + Clotrimazole (100mg) + Tinidazole (100mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455399/q9tod8cblz6ycxw3uors.jpg",
+        "product_url": "https://www.1mg.com/drugs/clingen-forte-vaginal-capsule-147211",
+        "category": " Agents For Fungal Infections "
+    },
+    {
+        "id": "da721ef8-6327-465e-99f4-d4b812eb5606",
+        "pname": "Provironum Tablet",
+        "psizeandcompany": "strip of 10 tabletsZydus Cadila",
+        "mrp": 434.5,
+        "salts": "Mesterolone (25mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1613985828/j780qij5a70szigc2xpy.jpg",
+        "product_url": "https://www.1mg.com/drugs/provironum-tablet-72296",
+        "category": " Androgens Excluding G3 E G3 F "
+    },
+    {
+        "id": "b94f39b3-f3c5-4bf5-93a3-cb0b7a7072bc",
+        "pname": "Hcg 5000IU Injection",
+        "psizeandcompany": "vial of 1 InjectionZydus Cadila",
+        "mrp": 397.18,
+        "salts": "Human chorionic gonadotropin (hCG) (5000IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1621253568/hiadftw6zdq3uyinpggm.jpg",
+        "product_url": "https://www.1mg.com/drugs/hcg-5000iu-injection-159342",
+        "category": " Gonadotrophins Including Other Ovulation Stimulants "
+    },
+    {
+        "id": "9501b383-854e-45c9-8ba3-444132f50efb",
+        "pname": "AF Kit Tablet",
+        "psizeandcompany": "strip of 4 tabletsSystopic Laboratories Pvt Ltd",
+        "mrp": 104.0,
+        "salts": "Azithromycin (1000mg) + Ornidazole (750mg) + Fluconazole (150mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537766916/do8qsf2s9vsxi6naeio0.jpg",
+        "product_url": "https://www.1mg.com/drugs/af-kit-tablet-68739",
+        "category": " Gynaecological Antibiotics Sulphonamides "
+    },
+    {
+        "id": "eddbeb9b-4053-43dc-96a1-f2baae7053b9",
+        "pname": "Orofer FCM Injection",
+        "psizeandcompany": "vial of 10 ml InjectionEmcure Pharmaceuticals Ltd",
+        "mrp": 3247.0,
+        "salts": "Ferric Carboxymaltose (50mg/ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1536070249/zo0i2fce44vr56wkvmfm.png",
+        "product_url": "https://www.1mg.com/drugs/orofer-fcm-injection-192042",
+        "category": " Haematinics Iron And All Combinations "
+    },
+    {
+        "id": "e6ad7379-059b-45ca-986c-5095130cbf0a",
+        "pname": "Primolut-N Tablet",
+        "psizeandcompany": "strip of 10 tabletsZydus Cadila",
+        "mrp": 57.0,
+        "salts": "Norethisterone (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1527057818/hzklgmpfpyzky4herx2i.jpg",
+        "product_url": "https://www.1mg.com/drugs/primolut-n-tablet-135958",
+        "category": " Hormonal Contraceptives Systemic "
+    },
+    {
+        "id": "502d96f7-0fa1-4ee2-a3b3-c43c0d5666cb",
+        "pname": "Methergin Tablet",
+        "psizeandcompany": "strip of 10 tabletsNovartis India Ltd",
+        "mrp": 88.72,
+        "salts": "Methylergometrine (0.125mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537455854/h9zboxvktgjlreumhmxy.jpg",
+        "product_url": "https://www.1mg.com/drugs/methergin-tablet-7630",
+        "category": " Labour Inducers "
+    },
+    {
+        "id": "52321c56-afc6-4bd2-9244-8ad3eb8918e9",
+        "pname": "Duvadilan Tablet",
+        "psizeandcompany": "strip of 50 tabletsAbbott",
+        "mrp": 166.82,
+        "salts": "Isoxsuprine (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537755067/krzsivz4nz25jmt0rd8u.jpg",
+        "product_url": "https://www.1mg.com/drugs/duvadilan-tablet-33173",
+        "category": " Labour Inhibitors "
+    },
+    {
+        "id": "a33a521d-1e6b-4bda-920e-cb54c1ba7f60",
+        "pname": "Alivher ES Tablet",
+        "psizeandcompany": "strip of 10 tabletsAkumentis Healthcare Ltd",
+        "mrp": 218.0,
+        "salts": "Estradiol (1mg) + Sildenafil (25mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/alivher-es-tablet-172560",
+        "category": " Oestrogens Excluding G3 A G3 E G3 F "
+    },
+    {
+        "id": "07d50d3c-1046-436a-8be6-926f473f1dca",
+        "pname": "Femilon Tablet",
+        "psizeandcompany": "strip of 21 tabletsOrganon (India) Ltd",
+        "mrp": 274.0,
+        "salts": "Ethinyl Estradiol (0.02mg) + Desogestrel (0.15mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537451375/rmpm8trmnmfesdezudjm.jpg",
+        "product_url": "https://www.1mg.com/drugs/femilon-tablet-64453",
+        "category": " Oestrogen With Progestogen Combinations Excluding G3 A "
+    },
+    {
+        "id": "2c487b09-2661-4d9b-8132-6c77c4abc592",
+        "pname": "Krimson 35 Tablet",
+        "psizeandcompany": "strip of 21 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 358.0,
+        "salts": "Cyproterone (2mg) + Ethinyl Estradiol (0.035mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455394/af8apr95zmkvrxyho5yf.jpg",
+        "product_url": "https://www.1mg.com/drugs/krimson-35-tablet-153858",
+        "category": " Other Gynaecological Products "
+    },
+    {
+        "id": "5e2141bc-868d-491c-8ea1-b27d62d136fd",
+        "pname": "Unwanted Kit Tablet",
+        "psizeandcompany": "strip of 1 TabletMankind Pharma Ltd",
+        "mrp": 393.14,
+        "salts": "Mifepristone (200mg) + Misoprostol (200mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534917685/lyhsmg5oetftxub3kurr.jpg",
+        "product_url": "https://www.1mg.com/drugs/unwanted-kit-tablet-267798",
+        "category": " Other Sex Hormones And Similar Products "
+    },
+    {
+        "id": "551cc457-07d1-4d72-a5a4-94d4ef3240c6",
+        "pname": "Susten 100 Injection",
+        "psizeandcompany": "ampoule of 1 ml InjectionSun Pharmaceutical Industries Ltd",
+        "mrp": 136.0,
+        "salts": "Progesterone (100mg/ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1611924872/azmceje3hjsjmbbiezgj.jpg",
+        "product_url": "https://www.1mg.com/drugs/susten-100-injection-139623",
+        "category": " Progestogens Excluding G3 A G3 F "
+    },
+    {
+        "id": "13638b1f-7473-44fc-b89d-8265b547cb3b",
+        "pname": "Cabgolin 0.5 Tablet",
+        "psizeandcompany": "strip of 4 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 418.0,
+        "salts": "Cabergoline (0.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1612079137/gol3rxheljupofvvgvy7.jpg",
+        "product_url": "https://www.1mg.com/drugs/cabgolin-0.5-tablet-69647",
+        "category": " Prolactin Inhibitors "
+    },
+    {
+        "id": "e82e669b-1547-4b93-8202-673d73b7222f",
+        "pname": "Sevista Tablet",
+        "psizeandcompany": "strip of 15 tabletsTorrent Pharmaceuticals Ltd",
+        "mrp": 389.2,
+        "salts": "Centchroman (60mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1621255728/b253j9boh5dmis13iujv.jpg",
+        "product_url": "https://www.1mg.com/drugs/sevista-tablet-479652",
+        "category": " Selective Oestrogen Receptor Modulators Serms "
+    },
+    {
+        "id": "664dec27-9129-4052-966c-a12a28c953e4",
+        "pname": "Acton Prolongatum 60IU Injection",
+        "psizeandcompany": "vial of 5 ml InjectionFerring Pharmaceuticals",
+        "mrp": 2141.26,
+        "salts": "Corticotropin (60IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/acton-prolongatum-60iu-injection-58160",
+        "category": " Acth "
+    },
+    {
+        "id": "903dc9e5-c061-4f9b-80ee-c048ad009c7d",
+        "pname": "Deca-Durabolin 50 Injection",
+        "psizeandcompany": "ampoule of 1 ml InjectionOrganon (India) Ltd",
+        "mrp": 383.4,
+        "salts": "Nandrolone Decanoate (50mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537452998/wchbhl7zjb02awyrhr35.jpg",
+        "product_url": "https://www.1mg.com/drugs/deca-durabolin-50-injection-19960",
+        "category": " Anabolic Hormones Systemic "
+    },
+    {
+        "id": "6d1539b6-2922-403b-9490-fae5bb9b16d7",
+        "pname": "Minirin 0.1mg Tablet",
+        "psizeandcompany": "bottle of 15 tabletsFerring Pharmaceuticals",
+        "mrp": 541.76,
+        "salts": "Desmopressin (0.1mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1603169312/t13kkfa5vowuvlwoxrra.png",
+        "product_url": "https://www.1mg.com/drugs/minirin-0.1mg-tablet-126004",
+        "category": " Antidiuretic Hormones "
+    },
+    {
+        "id": "28a31939-3d19-4b83-ada7-05c0e37c4b37",
+        "pname": "Cetrolix 0.25mg Injection",
+        "psizeandcompany": "vial of 1 InjectionIntas Pharmaceuticals Ltd",
+        "mrp": 1307.0,
+        "salts": "Cetrorelix (0.25mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/cetrolix-0.25mg-injection-230607",
+        "category": " Antigonadotrphin Releasing Hormones "
+    },
+    {
+        "id": "8197dbcf-656d-4f59-89e1-30f61c44b10c",
+        "pname": "Octride 0.1mg Injection",
+        "psizeandcompany": "vial of 1 InjectionSun Pharmaceutical Industries Ltd",
+        "mrp": 550.0,
+        "salts": "Octreotide acetate (0.1mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/octride-0.1mg-injection-254073",
+        "category": " Antigrowth Hormones "
+    },
+    {
+        "id": "b349efd2-464c-48d1-a04c-a74f6fb7d78c",
+        "pname": "Terifrac Injection",
+        "psizeandcompany": "cartridge of 3 ml InjectionIntas Pharmaceuticals Ltd",
+        "mrp": 5500.0,
+        "salts": "Teriparatide (750mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/terifrac-injection-166996",
+        "category": " Anti Osteoporotic Products "
+    },
+    {
+        "id": "4fb84b78-67ec-411b-9830-c178036d0729",
+        "pname": "Defcort 6 Tablet",
+        "psizeandcompany": "strip of 10 tabletsMacleods Pharmaceuticals Pvt Ltd",
+        "mrp": 124.0,
+        "salts": "Deflazacort (6mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529325513/joacg6e1jfnocvrvmeg4.jpg",
+        "product_url": "https://www.1mg.com/drugs/defcort-6-tablet-343034",
+        "category": " Anti Rheumatics Corticosteroid Combinations Systemic "
+    },
+    {
+        "id": "338b3cb9-40fb-4f87-b820-18e33df59dbf",
+        "pname": "Neo-Mercazole 10 Tablet",
+        "psizeandcompany": "bottle of 100 tabletsAbbott",
+        "mrp": 403.66,
+        "salts": "Carbimazole (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537757020/mrrsitvjdn9z3zpheava.jpg",
+        "product_url": "https://www.1mg.com/drugs/neo-mercazole-10-tablet-48994",
+        "category": " Anti Thyroid Preparation "
+    },
+    {
+        "id": "e65f7f91-941e-4d2a-a421-47484ab533b6",
+        "pname": "Glucagen 1mg Injection",
+        "psizeandcompany": "vial of 1 InjectionNovo Nordisk India Pvt Ltd",
+        "mrp": 750.79,
+        "salts": "Glucagon (1mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/glucagen-1mg-injection-257834",
+        "category": " Glucagon "
+    },
+    {
+        "id": "0a8be2ed-5819-431d-9445-998f176a0c71",
+        "pname": "Decapeptyl 0.1mg Injection",
+        "psizeandcompany": "vial of 1 ml InjectionFerring Pharmaceuticals",
+        "mrp": 337.37,
+        "salts": "Triptorelin (0.1mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/decapeptyl-0.1mg-injection-37857",
+        "category": " Gonadotrophin Releasing Hormones Not Used As Cytostatics "
+    },
+    {
+        "id": "7700e98f-7810-411f-9912-1569ec2e0848",
+        "pname": "Regen-D 150 Gel",
+        "psizeandcompany": "tube of 15 gm GelBharat Biotech",
+        "mrp": 2016.0,
+        "salts": "Recombinant Human Epidermal Growth Factor (150mcg/gm)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1615381225/p24ofanbvsjta8on26dp.jpg",
+        "product_url": "https://www.1mg.com/drugs/regen-d-150-gel-156460",
+        "category": " Growth Hormones "
+    },
+    {
+        "id": "191300b7-da7f-485f-92ad-89e65bd22119",
+        "pname": "Gluyell Sachet",
+        "psizeandcompany": "packet of 15 gm SachetMedilief Biosciences",
+        "mrp": 175.0,
+        "salts": "L-Glutamate (NA)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/gluyell-sachet-340228",
+        "category": " Other Anabolic Agents Systemic "
+    },
+    {
+        "id": "6970ce2f-9629-48b1-a82a-157591f7b6d9",
+        "pname": "Dexona Tablet",
+        "psizeandcompany": "strip of 20 tabletsZydus Cadila",
+        "mrp": 3.94,
+        "salts": "Dexamethasone (0.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537724038/n7alvphj785l3xfqonvs.jpg",
+        "product_url": "https://www.1mg.com/drugs/dexona-tablet-74512",
+        "category": " Systemic Corticosteroids Plain "
+    },
+    {
+        "id": "fde2422d-695a-4a7b-a616-3e97a1def135",
+        "pname": "Thyronorm 25mcg Tablet",
+        "psizeandcompany": "bottle of 120 tabletsAbbott",
+        "mrp": 175.68,
+        "salts": "Thyroxine (25mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1531402882/nwfy0lzzogc8kkaunhjc.jpg",
+        "product_url": "https://www.1mg.com/drugs/thyronorm-25mcg-tablet-356843",
+        "category": " Thyroid Preparation "
+    },
+    {
+        "id": "2b8fbb6a-e05e-4c09-8d74-509ff5658f31",
+        "pname": "Dubinor Tablet",
+        "psizeandcompany": "strip of 10 tabletsIntegrace Pvt Ltd",
+        "mrp": 206.0,
+        "salts": "Pregabalin (75mg) + Nortriptyline (10mg) + Methylcobalamin (1500mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1531402883/ti021cuh4w7ge6vukw2p.jpg",
+        "product_url": "https://www.1mg.com/drugs/dubinor-tablet-334535",
+        "category": " All Other Cns Drugs "
+    },
+    {
+        "id": "da5a4895-bd36-4145-8354-e08eee5f3a7f",
+        "pname": "Strocit Plus Tablet",
+        "psizeandcompany": "strip of 10 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 710.0,
+        "salts": "Citicoline (500mg) + Piracetam (800mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537764319/eeftn6si26jnicvwmdpl.jpg",
+        "product_url": "https://www.1mg.com/drugs/strocit-plus-tablet-66656",
+        "category": " Anti Alzheimer Products "
+    },
+    {
+        "id": "7757da52-6798-442a-9aca-00218dddadff",
+        "pname": "Tryptomer 10mg Tablet",
+        "psizeandcompany": "strip of 30 tabletsWockhardt Ltd",
+        "mrp": 76.94,
+        "salts": "Amitriptyline (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534770689/o76kwy8mlsetyppxz3yp.jpg",
+        "product_url": "https://www.1mg.com/drugs/tryptomer-10mg-tablet-332265",
+        "category": " Anti Depressants And Mood Stabilisers "
+    },
+    {
+        "id": "45ce0c0e-768e-411a-bb0d-ff5ff9a38587",
+        "pname": "Levipil 500 Tablet",
+        "psizeandcompany": "strip of 10 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 132.7,
+        "salts": "Levetiracetam (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537733781/djvoxmh4mb6swwcxeyhs.jpg",
+        "product_url": "https://www.1mg.com/drugs/levipil-500-tablet-15029",
+        "category": " Anti Epileptics "
+    },
+    {
+        "id": "8b7cdba7-83aa-4875-91fb-c391f7771193",
+        "pname": "Vasograin Tablet",
+        "psizeandcompany": "strip of 14 tabletsCadila Pharmaceuticals Ltd",
+        "mrp": 112.7,
+        "salts": "Caffeine (100mg) + Ergotamine (1mg) + Paracetamol (250mg) + Prochlorperazine (2.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537722747/d0gnkyfz0pzdwtdtr7rj.jpg",
+        "product_url": "https://www.1mg.com/drugs/vasograin-tablet-116573",
+        "category": " Anti Migraine Preparations "
+    },
+    {
+        "id": "281553bb-017f-4e14-85a2-b06b8074d35f",
+        "pname": "Pacitane Tablet",
+        "psizeandcompany": "strip of 30 tabletsPfizer Ltd",
+        "mrp": 40.15,
+        "salts": "Trihexyphenidyl (2mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534917025/yynoco3dvgvl5r06bq4b.jpg",
+        "product_url": "https://www.1mg.com/drugs/pacitane-tablet-150235",
+        "category": " Anti Parkinson Drugs "
+    },
+    {
+        "id": "ee854f06-6179-46b8-a745-a107b5a2dce5",
+        "pname": "Bupron XL 150 Tablet",
+        "psizeandcompany": "strip of 10 tablet mrSun Pharmaceutical Industries Ltd",
+        "mrp": 149.0,
+        "salts": "Bupropion (150mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1628304939/ocv9o2kbd87fd3nyf0wq.png",
+        "product_url": "https://www.1mg.com/drugs/bupron-xl-150-tablet-147700",
+        "category": " Anti Smoking Products "
+    },
+    {
+        "id": "17bdb260-7365-4586-aca1-12642d8e5f49",
+        "pname": "Vertin Tablet",
+        "psizeandcompany": "strip of 15 tabletsAbbott",
+        "mrp": 145.97,
+        "salts": "Betahistine (8mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455619/gdeklyva2ae4hchhssgw.jpg",
+        "product_url": "https://www.1mg.com/drugs/vertin-tablet-356692",
+        "category": " Antivertigo Products "
+    },
+    {
+        "id": "73c25f56-9659-4029-ad74-e44d66300da2",
+        "pname": "Lesuride Tablet",
+        "psizeandcompany": "strip of 10 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 98.0,
+        "salts": "Levosulpiride (25mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537766420/bg1qbt1emk7ryg2mj077.jpg",
+        "product_url": "https://www.1mg.com/drugs/lesuride-tablet-67876",
+        "category": " Atypical Antipsychotics "
+    },
+    {
+        "id": "f5afa002-a40e-49fe-b653-be19bca89ed3",
+        "pname": "Placida Tablet",
+        "psizeandcompany": "strip of 10 tabletsMankind Pharma Ltd",
+        "mrp": 69.57,
+        "salts": "Flupenthixol (0.5mg) + Melitracen (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/placida-tablet-120137",
+        "category": " Conventional Antipsychotics "
+    },
+    {
+        "id": "e0255180-aad8-46db-b198-94245cd626d8",
+        "pname": "Dizone Tablet",
+        "psizeandcompany": "strip of 10 tabletsOzone Pharmaceuticals Ltd",
+        "mrp": 33.63,
+        "salts": "Disulfiram (250mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537453697/s424hcitgrq0mamxmnxz.jpg",
+        "product_url": "https://www.1mg.com/drugs/dizone-tablet-4980",
+        "category": " Drugs Used In Alcohol Dependence "
+    },
+    {
+        "id": "8c870169-1f5a-4196-ac16-0980ff3064d8",
+        "pname": "Addnok 0.2mg Tablet",
+        "psizeandcompany": "strip of 20 tabletsRusan Pharma Ltd",
+        "mrp": 76.6,
+        "salts": "Buprenorphine (0.2mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/addnok-0.2mg-tablet-405427",
+        "category": " Drugs Used In Opioid Dependence "
+    },
+    {
+        "id": "593198df-b945-43e7-8103-2f27ff60624f",
+        "pname": "Sleep Well 10mg Tablet",
+        "psizeandcompany": "strip of 10 tabletsMarc Laboratories Pvt Ltd",
+        "mrp": 78.4,
+        "salts": "Zolpidem (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/sleep-well-10mg-tablet-310560",
+        "category": " Hypnotics Sedatives "
+    },
+    {
+        "id": "37de2747-94f3-41f0-983d-2d3658e2cad1",
+        "pname": "SR Pevesca Plus 75 Tablet",
+        "psizeandcompany": "strip of 10 tablet srUSV Ltd",
+        "mrp": 138.5,
+        "salts": "Pregabalin (75mg) + Methylcobalamin (1500mcg) + Vitamin B6 (Pyridoxine) (20mg) + Folic Acid (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/sr-pevesca-plus-75-tablet-118597",
+        "category": " Neurotonics Other Miscellaneous Drugs "
+    },
+    {
+        "id": "3adde061-03b4-4952-9337-8623ba01bbd1",
+        "pname": "Strocit 500 Tablet",
+        "psizeandcompany": "strip of 10 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 630.0,
+        "salts": "Citicoline (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537734313/xyw1l2n2vqbja7g70ie6.jpg",
+        "product_url": "https://www.1mg.com/drugs/strocit-500-tablet-57049",
+        "category": " Nootropics "
+    },
+    {
+        "id": "851cb562-5d64-4161-bd26-3ea9383e1d84",
+        "pname": "Alprax 0.25 Tablet",
+        "psizeandcompany": "strip of 15 tabletsTorrent Pharmaceuticals Ltd",
+        "mrp": 26.4,
+        "salts": "Alprazolam (0.25mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/alprax-0.25-tablet-69430",
+        "category": " Tranquillisers "
+    },
+    {
+        "id": "e74b2a6c-e915-4fd5-af59-f9be4fe10f97",
+        "pname": "Refresh Tears Eye Drop",
+        "psizeandcompany": "bottle of 10 ml Eye DropAllergan India Pvt Ltd",
+        "mrp": 143.35,
+        "salts": "Carboxymethylcellulose (0.5% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535628905/tndyatagip82pldszi8g.jpg",
+        "product_url": "https://www.1mg.com/drugs/refresh-tears-eye-drop-140934",
+        "category": " Artificial Tears And Ocular Lubricants "
+    },
+    {
+        "id": "dfc5a612-3195-48af-ac18-24d7a693502f",
+        "pname": "Diamox Tablet",
+        "psizeandcompany": "strip of 15 tabletsPfizer Ltd",
+        "mrp": 57.68,
+        "salts": "Acetazolamide (250mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537765824/jnqhkllwj7ln5dgf0hp8.jpg",
+        "product_url": "https://www.1mg.com/drugs/diamox-tablet-58859",
+        "category": " Miotics And Antiglaucoma Preparations "
+    },
+    {
+        "id": "b978446c-e2bf-44d3-b64e-06c22ebd8545",
+        "pname": "Homide Eye Drop",
+        "psizeandcompany": "packet of 5 ml Eye DropIndoco Remedies Ltd",
+        "mrp": 32.65,
+        "salts": "Homatropine (2% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529325429/hxdryo8ewge4ccucferl.jpg",
+        "product_url": "https://www.1mg.com/drugs/homide-eye-drop-165399",
+        "category": " Mydriatics And Cyclopegics "
+    },
+    {
+        "id": "6dd89c06-f50d-443b-b856-897c031c7b3f",
+        "pname": "Olopat Eye Drop",
+        "psizeandcompany": "bottle of 5 ml Ophthalmic SolutionAjanta Pharma Ltd",
+        "mrp": 165.0,
+        "salts": "Olopatadine (0.1% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529930876/gxrkla75weo2n6epa85q.jpg",
+        "product_url": "https://www.1mg.com/drugs/olopat-eye-drop-165513",
+        "category": " Ocular Anti Allergics Decongestants Antiseptics "
+    },
+    {
+        "id": "1380c752-9bc2-41e5-a17b-4b41a276a732",
+        "pname": "Accentrix Solution for Injection",
+        "psizeandcompany": "vial of 1 Solution for InjectionNovartis India Ltd",
+        "mrp": 23960.0,
+        "salts": "Ranibizumab (10mg/ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/accentrix-solution-for-injection-369709",
+        "category": " Ocular Antineovascularisation Products "
+    },
+    {
+        "id": "f31a0fb7-8166-47f9-8334-31b49900c868",
+        "pname": "Levoflox 500 Tablet",
+        "psizeandcompany": "strip of 10 tabletsCipla Ltd",
+        "mrp": 90.49,
+        "salts": "Levofloxacin (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455451/fjwvf2h2embpvf60abbl.jpg",
+        "product_url": "https://www.1mg.com/drugs/levoflox-500-tablet-165440",
+        "category": " Ophthalmological Anti Infectives Medicines "
+    },
+    {
+        "id": "22b7914c-3f76-4ac1-b419-3e67151c2394",
+        "pname": "Lotepred Eye Drop",
+        "psizeandcompany": "packet of 5 ml Opthalmic SuspensionSun Pharmaceutical Industries Ltd",
+        "mrp": 164.0,
+        "salts": "Loteprednol etabonate (0.5% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1526561761/jbiw3cdq9twxpu4z5jdz.jpg",
+        "product_url": "https://www.1mg.com/drugs/lotepred-eye-drop-141582",
+        "category": " Ophthalmological Corticosteroids "
+    },
+    {
+        "id": "00a1f6f5-0cce-45bf-b542-7506b16a5a84",
+        "pname": "Retigraph 20% Injection",
+        "psizeandcompany": "vial of 3 ml InjectionSunways India Pvt Ltd",
+        "mrp": 87.4,
+        "salts": "Fluorescein (20%)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/retigraph-20-injection-282816",
+        "category": " Opthalmological Diagnostic Agents "
+    },
+    {
+        "id": "66a942ba-dcc7-4ef0-9418-6e6bd612c741",
+        "pname": "Paracaine Eye Drop",
+        "psizeandcompany": "packet of 5 ml Eye DropAjanta Pharma Ltd",
+        "mrp": 52.5,
+        "salts": "Proparacaine (NA)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/paracaine-eye-drop-150330",
+        "category": " Opthalmological Local Anaesthetics "
+    },
+    {
+        "id": "a526847c-9301-4735-a2a0-40e82427c712",
+        "pname": "Ketorol-DT Tablet",
+        "psizeandcompany": "strip of 15 tablet dtDr Reddy's Laboratories Ltd",
+        "mrp": 121.5,
+        "salts": "Ketorolac (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1527058008/bj3h6dgadpvulhx0a7rm.jpg",
+        "product_url": "https://www.1mg.com/drugs/ketorol-dt-tablet-338732",
+        "category": " Opthalmological Nsaids "
+    },
+    {
+        "id": "79120afe-5ebe-449b-8a2d-91a6a16c109f",
+        "pname": "Genteal Eye Drop",
+        "psizeandcompany": "packet of 10 ml Eye DropAlcon Laboratories",
+        "mrp": 200.0,
+        "salts": "Hydroxypropylmethylcellulose (0.3% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1607337931/nceyp4wtztv0dhzptj4t.png",
+        "product_url": "https://www.1mg.com/drugs/genteal-eye-drop-13653",
+        "category": " Opthalmological Surgical Aids "
+    },
+    {
+        "id": "fe4f5748-b8d8-4344-bde5-fd4fddc3a200",
+        "pname": "Vasicon Eye Drop",
+        "psizeandcompany": "packet of 10 ml Eye DropNuLife Pharmaceuticals",
+        "mrp": 108.0,
+        "salts": "Boric Acid (1.25% w/v) + Sodium Chloride (0.05% w/v) + Zinc Sulfate (0.12% w/v) + Chlorpheniramine Maleate (0.01% w/v) + Naphazoline (0.056% w/v) + Chlorbutol (0.35% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/vasicon-eye-drop-150963",
+        "category": " Other Opthalmologicals "
+    },
+    {
+        "id": "bed275cc-def2-4cb9-b7e9-24c170b5dbea",
+        "pname": "Ciplox Eye/Ear Drops",
+        "psizeandcompany": "bottle of 10 ml Eye/Ear DropsCipla Ltd",
+        "mrp": 17.05,
+        "salts": "Ciprofloxacin (0.3% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1530272405/s1zjzpgjhqbndeg814cv.jpg",
+        "product_url": "https://www.1mg.com/drugs/ciplox-eye-ear-drops-197483",
+        "category": " Eye Ear Anti Infectives "
+    },
+    {
+        "id": "07a60e5e-9780-445e-9690-1eaec7001a5a",
+        "pname": "Ciplox D Eye/Ear Drops",
+        "psizeandcompany": "packet of 10 ml Eye/Ear DropsCipla Ltd",
+        "mrp": 19.96,
+        "salts": "Ciprofloxacin (0.3% w/v) + Dexamethasone (0.1% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537709911/cczhj3qcnk5o55rltpa9.jpg",
+        "product_url": "https://www.1mg.com/drugs/ciplox-d-eye-ear-drops-63798",
+        "category": " Eye Ear Anti Infectives Corticosteroid Combinations "
+    },
+    {
+        "id": "f95618f8-6712-45e9-b1e8-d0e8bc85936a",
+        "pname": "Omnacortil 10 Tablet DT",
+        "psizeandcompany": "strip of 10 tablet dtMacleods Pharmaceuticals Pvt Ltd",
+        "mrp": 10.89,
+        "salts": "Prednisolone (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535628902/sotpkitfdvu0lhckvtjc.jpg",
+        "product_url": "https://www.1mg.com/drugs/omnacortil-10-tablet-dt-150936",
+        "category": " Eye Ear Corticosteroids "
+    },
+    {
+        "id": "ba3abc9a-51b4-43fa-9c05-1f07f125b4c1",
+        "pname": "Locula 20% Eye Drop",
+        "psizeandcompany": "bottle of 10 ml Eye DropEast India Pharmaceutical Works Ltd",
+        "mrp": 31.0,
+        "salts": "Sulphacetamide (20% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537791101/mn84k9pdy0e7tfi9mwjf.jpg",
+        "product_url": "https://www.1mg.com/drugs/locula-20-eye-drop-34033",
+        "category": " Ophthalmological Anti Infectives "
+    },
+    {
+        "id": "6e57e39a-0f1f-4eae-b7e7-492612380efa",
+        "pname": "Neumax 300mcg Injection",
+        "psizeandcompany": "vial of 1 ml InjectionDabur India Ltd",
+        "mrp": 2031.25,
+        "salts": "Nartograstim (300mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/neumax-300mcg-injection-59624",
+        "category": " Allergens "
+    },
+    {
+        "id": "d5980fec-baaa-4f3c-88fb-4d26aae1f240",
+        "pname": "Water for Injection Injection",
+        "psizeandcompany": "vial of 10 ml InjectionAlbert David Ltd",
+        "mrp": 2.37,
+        "salts": "Sterile Water (NA)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/water-for-injection-injection-245300",
+        "category": " All Other Non Therapeutic Products "
+    },
+    {
+        "id": "d09adca6-79c8-4211-9d09-10c3a8748517",
+        "pname": "Pam 500mg Injection",
+        "psizeandcompany": "vial of 20 ml InjectionAcme Pharmaceutical",
+        "mrp": 166.66,
+        "salts": "Pralidoxime (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/pam-500mg-injection-176714",
+        "category": " Antidotes "
+    },
+    {
+        "id": "13265cd8-cfd0-4647-9e9a-9594c72865c0",
+        "pname": "O-Stat 120 Capsule",
+        "psizeandcompany": "strip of 10 capsulesAristo Pharmaceuticals Pvt Ltd",
+        "mrp": 404.0,
+        "salts": "Orlistat (120mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537785027/d4d09tho9s4nyggzga3i.jpg",
+        "product_url": "https://www.1mg.com/drugs/o-stat-120-capsule-25023",
+        "category": " Antiobesity Preparations Excluding Dietetics "
+    },
+    {
+        "id": "63d3fdef-383c-4b5f-a20c-21c2baca0aad",
+        "pname": "Revlamer 400 Tablet",
+        "psizeandcompany": "strip of 10 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 93.0,
+        "salts": "Sevelamer (400mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537731269/okro2jayjcof0ks5uatj.jpg",
+        "product_url": "https://www.1mg.com/drugs/revlamer-400-tablet-32488",
+        "category": " Hyperkalaemia Hyperphosphataemia Products "
+    },
+    {
+        "id": "75472b18-38f9-4cf8-8838-1158903f0266",
+        "pname": "Omnipaque 300mg Injection",
+        "psizeandcompany": "vial of 10 ml InjectionPfizer Ltd",
+        "mrp": 792.0,
+        "salts": "Iohexol (300mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/omnipaque-300mg-injection-315987",
+        "category": " Low Osmolar Angio Urography "
+    },
+    {
+        "id": "670c24f4-2346-4dee-8aab-67081eb0c11b",
+        "pname": "Meloset Tablet",
+        "psizeandcompany": "strip of 10 tabletsAristo Pharmaceuticals Pvt Ltd",
+        "mrp": 49.0,
+        "salts": "Melatonin (3mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/meloset-tablet-17617",
+        "category": " Other Hormones And Preparations With Similar Action "
+    },
+    {
+        "id": "ea58f009-0b5d-41f2-ae14-e57565c5b10f",
+        "pname": "Urografin 76% Infusion",
+        "psizeandcompany": "bottle of 50 ml InfusionZydus Cadila",
+        "mrp": 473.0,
+        "salts": "Diatrizoic Acid (76%)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/urografin-76-infusion-295425",
+        "category": " Radiodiagnostic Agents "
+    },
+    {
+        "id": "0f0dc477-1060-4dfd-bc1c-a0c5f06a4770",
+        "pname": "Fostitol Syrup",
+        "psizeandcompany": "bottle of 100 ml SyrupAlkem Laboratories Ltd",
+        "mrp": 93.5,
+        "salts": "Lactitol (10gm) + Fructo Oligosaccharide (2gm)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/fostitol-syrup-140290",
+        "category": " Sweetener "
+    },
+    {
+        "id": "3d172a53-0a8b-4d59-a8af-7971674bb0cd",
+        "pname": "Cancidas 50mg Injection",
+        "psizeandcompany": "vial of 10 ml InjectionMSD Pharmaceuticals Pvt Ltd",
+        "mrp": 14115.0,
+        "salts": "Caspofungin (50mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/cancidas-50mg-injection-49181",
+        "category": " Varicose Therapy Systemic "
+    },
+    {
+        "id": "2e5b7386-3dad-49b0-b932-1fdd46425d56",
+        "pname": "Soliwax Ear Drop",
+        "psizeandcompany": "bottle of 10 ml Ear DropNuLife Pharmaceuticals",
+        "mrp": 144.0,
+        "salts": "Benzocaine (2.7% w/v) + Chlorbutol (5% w/v) + Paradichlorobenzene (2% w/v) + Turpentine Oil (15% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455276/zunk15xe583u9fsuuys2.jpg",
+        "product_url": "https://www.1mg.com/drugs/soliwax-ear-drop-126578",
+        "category": " Other Otologicals "
+    },
+    {
+        "id": "e42d5f2f-547d-45de-9a66-d02c67a52f04",
+        "pname": "Paraxin 500 Capsule",
+        "psizeandcompany": "strip of 10 capsulesAbbott",
+        "mrp": 177.92,
+        "salts": "Chloramphenicol (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537777938/vrvksiibl9jhqsm2k4f3.jpg",
+        "product_url": "https://www.1mg.com/drugs/paraxin-500-capsule-55187",
+        "category": " Otological Anti Infectives "
+    },
+    {
+        "id": "45e6f933-db72-4ca7-8cac-a6ce66a98829",
+        "pname": "Otiflox Ear Drop",
+        "psizeandcompany": "bottle of 5 ml Ear DropCentaur Pharmaceuticals Pvt Ltd",
+        "mrp": 78.19,
+        "salts": "Neomycin (0.5% w/v) + Beclometasone (0.025% w/v) + Clotrimazole (1% w/v) + Lidocaine (2% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529930875/fmvuibkcw53n1z8ozxo2.jpg",
+        "product_url": "https://www.1mg.com/drugs/otiflox-ear-drop-233715",
+        "category": " Otological Anti Infectives Corticosteroid Combinations "
+    },
+    {
+        "id": "bbfa75e0-71b3-4bde-a962-004194779eff",
+        "pname": "Isoflurane Usp Liquid For Inhalation",
+        "psizeandcompany": "bottle of 100 ml Solution for inhalationBaxter India Pvt Ltd",
+        "mrp": 82.4,
+        "salts": "Isoflurane (NA)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/isoflurane-usp-liquid-for-inhalation-177955",
+        "category": " Anaesthetics General Inhalation "
+    },
+    {
+        "id": "9e464ae3-7627-4b56-b5f0-8b6618750d95",
+        "pname": "Ketamine Hydrochloride 50mg Injection",
+        "psizeandcompany": "vial of 10 ml InjectionCiron Drugs & Pharmaceuticals Pvt Ltd",
+        "mrp": 109.0,
+        "salts": "Ketamine (50mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/ketamine-hydrochloride-50mg-injection-447288",
+        "category": " Anaesthetics General Injectables "
+    },
+    {
+        "id": "d1de9474-e736-4f1d-89be-acc244e7021d",
+        "pname": "Otogesic Ear Drop",
+        "psizeandcompany": "packet of 10 ml Ear DropEris Lifesciences Ltd",
+        "mrp": 150.04,
+        "salts": "Dibucaine (1.1% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529325518/mur4lxk6gfnpqvfzeivc.jpg",
+        "product_url": "https://www.1mg.com/drugs/otogesic-ear-drop-330900",
+        "category": " Anaesthetics Local "
+    },
+    {
+        "id": "d6fee2f5-df6b-47b7-90cd-d3226fdfd07f",
+        "pname": "Zyloric Tablet",
+        "psizeandcompany": "strip of 10 tabletsGlaxo SmithKline Pharmaceuticals Ltd",
+        "mrp": 21.15,
+        "salts": "Allopurinol (100mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537766870/nmvsfmje2peg6c6df7dw.jpg",
+        "product_url": "https://www.1mg.com/drugs/zyloric-tablet-41865",
+        "category": " Anti Gout Preparations "
+    },
+    {
+        "id": "efe601e1-fea9-48a4-814b-be762cc5572e",
+        "pname": "Chymoral Forte Tablet",
+        "psizeandcompany": "strip of 20 tabletsTorrent Pharmaceuticals Ltd",
+        "mrp": 405.2,
+        "salts": "Trypsin Chymotrypsin (100000AU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534770584/yx2dyj1ln3as4ualtkz7.jpg",
+        "product_url": "https://www.1mg.com/drugs/chymoral-forte-tablet-145310",
+        "category": " Anti Inflammatory Enzymes "
+    },
+    {
+        "id": "15455f10-dd79-496f-bef4-06809f845c80",
+        "pname": "Zerodol-SP Tablet",
+        "psizeandcompany": "strip of 10 tabletsIpca Laboratories Ltd",
+        "mrp": 107.6,
+        "salts": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537755264/r10hodsaa48wpdqkfsqf.jpg",
+        "product_url": "https://www.1mg.com/drugs/zerodol-sp-tablet-67307",
+        "category": " Anti Rheumatics Non Steroidal Systemic "
+    },
+    {
+        "id": "395c718d-3b01-4635-a2c5-4a9618c5ae42",
+        "pname": "Osteofos 70 Tablet",
+        "psizeandcompany": "strip of 4 tabletsCipla Ltd",
+        "mrp": 234.91,
+        "salts": "Alendronic Acid (70mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534916792/x38xw0nsyqcmiseh2qot.jpg",
+        "product_url": "https://www.1mg.com/drugs/osteofos-70-tablet-121861",
+        "category": " Medicines For Osteoporosis "
+    },
+    {
+        "id": "21a0e93a-81e1-477d-92b4-8e8493ff9d0b",
+        "pname": "Liofen 10 Tablet",
+        "psizeandcompany": "strip of 10 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 113.05,
+        "salts": "Baclofen (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537758524/mju4fkvp9qx6wacycewj.jpg",
+        "product_url": "https://www.1mg.com/drugs/liofen-10-tablet-48247",
+        "category": " Muscle Relaxants Centrally Acting "
+    },
+    {
+        "id": "0d54683d-bbea-4d5b-8e66-7ef388f3e597",
+        "pname": "Neovec 10mg Injection",
+        "psizeandcompany": "vial of 10 ml InjectionNeon Laboratories Ltd",
+        "mrp": 291.0,
+        "salts": "Vecuronium (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/neovec-10mg-injection-232113",
+        "category": " Muscle Relaxants Peripherally Acting "
+    },
+    {
+        "id": "bdf10492-8691-4ad1-a757-d009b5c18927",
+        "pname": "Ultracet Tablet",
+        "psizeandcompany": "strip of 15 tabletsJanssen Pharmaceuticals",
+        "mrp": 219.0,
+        "salts": "Paracetamol/Acetaminophen  (325mg) +  Tramadol (37.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537452223/yacy6jdhfhmf19rwamh9.jpg",
+        "product_url": "https://www.1mg.com/drugs/ultracet-tablet-67071",
+        "category": " Narcotics "
+    },
+    {
+        "id": "279d46ba-79f3-4084-8e22-686fd0cf8f58",
+        "pname": "Dolo 650 Tablet",
+        "psizeandcompany": "strip of 15 tabletsMicro Labs Ltd",
+        "mrp": 30.91,
+        "salts": "Paracetamol (650mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537457265/ko6rsu9xwrdb7hrmmszr.jpg",
+        "product_url": "https://www.1mg.com/drugs/dolo-650-tablet-74467",
+        "category": " Non Narcotics And Anti Pyretics "
+    },
+    {
+        "id": "7e7f5e1c-928a-4e24-9bcf-c44a37130b42",
+        "pname": "Rejoint New Tablet",
+        "psizeandcompany": "strip of 15 tabletsAbbott",
+        "mrp": 499.12,
+        "salts": "Glucosamine (750mg) + Chondroitin (600mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1605005041/xbw1orejuhnizrgi8lgf.png",
+        "product_url": "https://www.1mg.com/drugs/rejoint-new-tablet-620843",
+        "category": " Products For Treatment Of Osteoarthritis "
+    },
+    {
+        "id": "af67030a-c746-47a6-b3f0-782ec13d845f",
+        "pname": "Tofe Tablet",
+        "psizeandcompany": "strip of 10 tabletsAlkem Laboratories Ltd",
+        "mrp": 390.0,
+        "salts": "Tofacitinib (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1608291176/hnvvv9h9hppvb4gphrix.png",
+        "product_url": "https://www.1mg.com/drugs/tofe-tablet-626724",
+        "category": " Products For Treatment Of Rheumatoid Arthritis "
+    },
+    {
+        "id": "d85cc156-3a27-4435-9807-541ca26f40d4",
+        "pname": "Lignogesic Gel",
+        "psizeandcompany": "tube of 30 gm GelMedley Pharmaceuticals",
+        "mrp": 130.0,
+        "salts": "Mephenesin (10% w/w) + Diclofenac (1.16% w/w) + Lidocaine (2% w/w) + Methyl Salicylate (10% w/w) + Linseed Oil (3% w/w) + Menthol (5% w/w)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1582657732/rpheuznyelj6nivetipd.jpg",
+        "product_url": "https://www.1mg.com/drugs/lignogesic-gel-577896",
+        "category": " Rubefacients "
+    },
+    {
+        "id": "ec7fcba3-a3b6-4fa7-b1c3-ba353e9b51de",
+        "pname": "Cilamin 250 Capsule",
+        "psizeandcompany": "strip of 10 capsulesPanacea Biotec Ltd",
+        "mrp": 144.25,
+        "salts": "Penicillamine (250mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1531402790/rvxqeesjiibog2u4ytmr.jpg",
+        "product_url": "https://www.1mg.com/drugs/cilamin-250-capsule-264776",
+        "category": " Specific Anti Rheumatic Agents Systemic "
+    },
+    {
+        "id": "aea2ed68-b07e-4017-ae5b-38d63c26f5bc",
+        "pname": "Dolonex DT 20mg Tablet",
+        "psizeandcompany": "strip of 15 tablet dtPfizer Ltd",
+        "mrp": 196.22,
+        "salts": "Piroxicam (20mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1611234455/d0qlcemxhpubcvys7f3f.jpg",
+        "product_url": "https://www.1mg.com/drugs/dolonex-dt-20mg-tablet-344363",
+        "category": " Topical Anti Rheumatic Non Steroidal "
+    },
+    {
+        "id": "f285c690-3ce0-47fb-babd-aa4ae517e750",
+        "pname": "Nebzmart-G 25mcg Smartules 2ml",
+        "psizeandcompany": "packet of 5 respulesGlenmark Pharmaceuticals Ltd",
+        "mrp": 216.0,
+        "salts": "Glycopyrrolate (25mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1612076940/kn7ml3zwnfigc4awugmi.jpg",
+        "product_url": "https://www.1mg.com/drugs/nebzmart-g-25mcg-smartules-2ml-419673",
+        "category": " All Other Anti Asthma And Copd Products "
+    },
+    {
+        "id": "8fb1c742-ecab-4f3b-9137-fadb331fe52a",
+        "pname": "Benadryl Syrup",
+        "psizeandcompany": "bottle of 150 ml SyrupJohnson & Johnson Ltd",
+        "mrp": 118.0,
+        "salts": "Diphenhydramine (14.08mg/5ml) + Ammonium Chloride (138mg/5ml) + Sodium Citrate (57.03mg/5ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537452871/vmhgxvg9ahh6tcx3cphb.jpg",
+        "product_url": "https://www.1mg.com/drugs/benadryl-syrup-114690",
+        "category": " Antitussive Bronchodilator Expectorant "
+    },
+    {
+        "id": "cc5d19c8-3648-4006-af47-b90231681501",
+        "pname": "Codistar  Syrup",
+        "psizeandcompany": "bottle of 100 ml SyrupMankind Pharma Ltd",
+        "mrp": 131.07,
+        "salts": "Chlorpheniramine Maleate (4mg/5ml) + Codeine (10mg/5ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/codistar-syrup-264329",
+        "category": " Antitussives With Codeine "
+    },
+    {
+        "id": "3c773a4c-08d0-4bd7-95d0-2248a3d52ccb",
+        "pname": "Benadryl DR Syrup",
+        "psizeandcompany": "bottle of 100 ml SyrupJohnson & Johnson Ltd",
+        "mrp": 112.0,
+        "salts": "Dextromethorphan Hydrobromide (15mg/5ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537724290/ui40vh5wyujqysny8dye.jpg",
+        "product_url": "https://www.1mg.com/drugs/benadryl-dr-syrup-90438",
+        "category": " Antitussives Without Codeine "
+    },
+    {
+        "id": "28172858-d57a-4be4-8263-78cc624e9e77",
+        "pname": "Budecort 0.5mg Respules 2ml",
+        "psizeandcompany": "packet of 5 respulesCipla Ltd",
+        "mrp": 119.45,
+        "salts": "Budesonide (0.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600930374/lzupbnuthjghpr2yzjnh.jpg",
+        "product_url": "https://www.1mg.com/drugs/budecort-0.5mg-respules-2ml-351796",
+        "category": " Bronchodilators "
+    },
+    {
+        "id": "59c7680c-7546-45c3-b35c-d8236714044a",
+        "pname": "Forglyn Respicap",
+        "psizeandcompany": "packet of 30 respicapsZydus Cadila",
+        "mrp": 304.9,
+        "salts": "Formoterol (6mcg) + Glycopyrrolate (25mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455624/dbbjzummrw379jvrqo6n.jpg",
+        "product_url": "https://www.1mg.com/drugs/forglyn-respicap-341819",
+        "category": " Bronchodilators Systemic "
+    },
+    {
+        "id": "ffa80b0d-3f28-46be-9a69-a19e15418833",
+        "pname": "Namcold FX Tablet",
+        "psizeandcompany": "strip of 10 tabletsLincoln Pharmaceuticals Ltd",
+        "mrp": 131.8,
+        "salts": "Fexofenadine (60mg) + Phenylephrine (10mg) + Paracetamol (325mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1616133706/gp7u3vngp9uta7t9d7z5.jpg",
+        "product_url": "https://www.1mg.com/drugs/namcold-fx-tablet-492540",
+        "category": " Cold Preparations Without Anti Infectives "
+    },
+    {
+        "id": "1c324bbe-27af-483d-be43-9caa02a0e35b",
+        "pname": "Instaryl-P Syrup",
+        "psizeandcompany": "bottle of 100 ml SyrupAglowmed Limited",
+        "mrp": 85.8,
+        "salts": "Terbutaline (1.25mg/5ml) + Ambroxol (15mg/5ml) + Guaifenesin (50mg/5ml) + Levomenthol (2.5mg/5ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1616076062/akvnzruq4s9dmfyej3pt.jpg",
+        "product_url": "https://www.1mg.com/drugs/instaryl-p-syrup-642737",
+        "category": " Expectorants Antitussives Cough Preparations "
+    },
+    {
+        "id": "c5b13f07-18c6-466f-a817-ca36ecff7fbc",
+        "pname": "Curosurf 80mg Injection",
+        "psizeandcompany": "vial of 3 ml InjectionAbbott",
+        "mrp": 12280.0,
+        "salts": "Poractant Alfa (80mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/curosurf-80mg-injection-241905",
+        "category": " Lung Surfactants "
+    },
+    {
+        "id": "8f63cd1c-cce5-468b-b77a-e3f77cfda5b2",
+        "pname": "AB Phylline Capsule",
+        "psizeandcompany": "strip of 10 capsulesSun Pharmaceutical Industries Ltd",
+        "mrp": 135.0,
+        "salts": "Acebrophylline (100mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537727584/uqbttopkmqtcfznk5phk.jpg",
+        "product_url": "https://www.1mg.com/drugs/ab-phylline-capsule-58271",
+        "category": " Non Steroidal Respiratory Anti Inflammatories "
+    },
+    {
+        "id": "0fa1909c-d33e-4135-85b7-6dfd7ddd0cb4",
+        "pname": "Ascoril D Plus Syrup Sugar Free",
+        "psizeandcompany": "bottle of 100 ml SyrupGlenmark Pharmaceuticals Ltd",
+        "mrp": 118.0,
+        "salts": "Phenylephrine (5mg) + Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1527057821/la9aelaydysxuaizrcd5.jpg",
+        "product_url": "https://www.1mg.com/drugs/ascoril-d-plus-syrup-sugar-free-184611",
+        "category": " Other Cough Cold Preparations "
+    },
+    {
+        "id": "611c064f-9240-4800-b10d-0c0237c425cc",
+        "pname": "Roflair Tablet",
+        "psizeandcompany": "strip of 10 tabletsCipla Ltd",
+        "mrp": 137.5,
+        "salts": "Roflumilast (500mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/roflair-tablet-261299",
+        "category": " Pde4 Inhibitors For Asthma Copd "
+    },
+    {
+        "id": "d96c77e8-735f-406e-9098-4f315b3776da",
+        "pname": "Pirfenex Tablet",
+        "psizeandcompany": "strip of 10 tabletsCipla Ltd",
+        "mrp": 210.0,
+        "salts": "Pirfenidone (200mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537760622/pe1u5bma7ab9btfxpwgi.jpg",
+        "product_url": "https://www.1mg.com/drugs/pirfenex-tablet-28069",
+        "category": " Respiratory Stimulants "
+    },
+    {
+        "id": "085ac692-7b77-4106-9bf0-3867ec0e234e",
+        "pname": "Allegra 180mg Tablet",
+        "psizeandcompany": "strip of 10 tabletsSanofi India  Ltd",
+        "mrp": 217.48,
+        "salts": "Fexofenadine (180mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1583503654/bhxfsf0ffigruvyle4bj.jpg",
+        "product_url": "https://www.1mg.com/drugs/allegra-180mg-tablet-9187",
+        "category": " Systemic Antihistamines "
+    },
+    {
+        "id": "d4d0aae1-785d-4362-8997-93ce6c7400e8",
+        "pname": "Nasivion Child Nasal Drops",
+        "psizeandcompany": "bottle of 10 ml Nasal DropsMerck Ltd",
+        "mrp": 73.2,
+        "salts": "Oxymetazoline (0.025% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1577086348/fguzhaoqytsj2bu4doe8.png",
+        "product_url": "https://www.1mg.com/drugs/nasivion-child-nasal-drops-563743",
+        "category": " Topical Nasal Preparations Non Steroidal "
+    },
+    {
+        "id": "da91263a-839e-4f10-9c9a-bcb1c551b8ed",
+        "pname": "Betnesol Tablet",
+        "psizeandcompany": "strip of 20 tabletsGlaxo SmithKline Pharmaceuticals Ltd",
+        "mrp": 12.85,
+        "salts": "Betamethasone (0.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537734852/jkfuswdj9kou8amwl866.jpg",
+        "product_url": "https://www.1mg.com/drugs/betnesol-tablet-70138",
+        "category": " Topical Nasal Preparations Steroidal "
+    },
+    {
+        "id": "c3888727-514d-4b16-a5a6-01e406026d0f",
+        "pname": "Testoviron Depot 250 Injection",
+        "psizeandcompany": "ampoule of 1 ml InjectionZydus Cadila",
+        "mrp": 376.95,
+        "salts": "Testosterone (250mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1528455273/skyqtm1h3wgksnps7cc7.jpg",
+        "product_url": "https://www.1mg.com/drugs/testoviron-depot-250-injection-126684",
+        "category": " All Other Therapeutic Products "
+    },
+    {
+        "id": "f8d840d9-a5f1-4f2b-8beb-fb8ec575814c",
+        "pname": "Manforce 100mg Tablet",
+        "psizeandcompany": "strip of 4 tabletsMankind Pharma Ltd",
+        "mrp": 232.0,
+        "salts": "Sildenafil (100mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535628905/sasqxicu8zsvrxy4cap4.jpg",
+        "product_url": "https://www.1mg.com/drugs/manforce-100mg-tablet-125944",
+        "category": " Erectile Dysfunction Products "
+    },
+    {
+        "id": "cd346d11-4d8b-4a78-8365-e9783c1350ad",
+        "pname": "Zytee RB Gel",
+        "psizeandcompany": "tube of 10 ml Dental GelRaptakos Brett & Co Ltd",
+        "mrp": 106.0,
+        "salts": "Choline Salicylate (9% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529930874/bfxd2mygkiw7sa9yzvfs.jpg",
+        "product_url": "https://www.1mg.com/drugs/zytee-rb-gel-135783",
+        "category": " Other Stomatologicals "
+    },
+    {
+        "id": "97bd5ccd-38dc-44cb-ab24-9877c98b39e9",
+        "pname": "Duralast 30 Tablet",
+        "psizeandcompany": "strip of 4 tabletsSun Pharmaceutical Industries Ltd",
+        "mrp": 189.0,
+        "salts": "Dapoxetine (30mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537729164/gduge2ppwy0mspkczacf.jpg",
+        "product_url": "https://www.1mg.com/drugs/duralast-30-tablet-40000",
+        "category": " All Other Urological Products "
+    },
+    {
+        "id": "f1392ab7-219d-48aa-8c54-457077726559",
+        "pname": "Urimax D Tablet MR",
+        "psizeandcompany": "strip of 15 tablet mrCipla Ltd",
+        "mrp": 525.74,
+        "salts": "Tamsulosin  (0.4mg) +  Dutasteride (0.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535628903/fgrtyp0l5jqrzos8rtqz.jpg",
+        "product_url": "https://www.1mg.com/drugs/urimax-d-tablet-mr-153244",
+        "category": " Benign Prostatic Hypertrophy Bph Products "
+    },
+    {
+        "id": "65ba29a0-8849-4c72-a33b-71bad38c6d4b",
+        "pname": "Niftas Tablet SR",
+        "psizeandcompany": "strip of 10 tablet srIntas Pharmaceuticals Ltd",
+        "mrp": 134.0,
+        "salts": "Nitrofurantoin (100mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537756013/q4tljteddrr0pojc68f5.jpg",
+        "product_url": "https://www.1mg.com/drugs/niftas-tablet-sr-59642",
+        "category": " Urinary Anti Infectives And Antiseptics "
+    },
+    {
+        "id": "fdf7ed31-33bd-4cce-8e63-2f0148c423f9",
+        "pname": "Urispas Tablet",
+        "psizeandcompany": "strip of 15 tabletsWalter Bushnell",
+        "mrp": 415.18,
+        "salts": "Flavoxate (200mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/urispas-tablet-250702",
+        "category": " Urinary Incontinence Products "
+    },
+    {
+        "id": "a4562f1e-209a-434b-80ba-2be74ff8e29f",
+        "pname": "Boostrix Vaccine",
+        "psizeandcompany": "prefilled syringe of 0.5 ml InjectionGlaxo SmithKline Pharmaceuticals Ltd",
+        "mrp": 1299.0,
+        "salts": "Diphtheria Toxoid (2IU) + Tetanus Toxoid (20IU) + Pertussis Toxoid (8mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1608749496/rf3mz2d9tixsbi7qfgw9.jpg",
+        "product_url": "https://www.1mg.com/drugs/boostrix-vaccine-172957",
+        "category": " All Other Vaccines "
+    },
+    {
+        "id": "1c00b416-1b0f-41e8-b65c-cc4a9fa2fe3c",
+        "pname": "Antisnake Venom Injection",
+        "psizeandcompany": "vial of 10 ml InjectionSerum Institute Of India Ltd",
+        "mrp": 992.42,
+        "salts": "Standard Cobra Venom (Naja naja) (0.6mg) + Standard common krait Venom (Bangarus caeruleus) (0.45mg) + Standard Russels Viper Venom (Vipera russelli) (0.6mg) + Snake Venom Antiserum (Polyvalent) (0.45mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/antisnake-venom-injection-312623",
+        "category": " Antitoxic Sera "
+    },
+    {
+        "id": "90fe3ddc-c620-4926-9207-f61aac1120d0",
+        "pname": "Mmr  Vaccine",
+        "psizeandcompany": "vial of 1 ml InjectionSerum Institute Of India Ltd",
+        "mrp": 128.0,
+        "salts": "Measles Vaccine (Live) (1000ccid50) + Mumps Virus Vaccine (5000ccid50) + Rubella vaccine (Live) (1000ccid50)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/mmr-vaccine-59561",
+        "category": " Combination Of Vaccines "
+    },
+    {
+        "id": "1b55da98-ed76-4177-b57a-5c4a9c5c20f2",
+        "pname": "Immunorel 5gm Solution for Infusion",
+        "psizeandcompany": "bottle of 100 ml Solution for InfusionReliance Life Sciences",
+        "mrp": 16237.73,
+        "salts": "Human Gamma Globulin (5% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1608814181/j8ghzu7c7dghlcgojpna.jpg",
+        "product_url": "https://www.1mg.com/drugs/immunorel-5gm-solution-for-infusion-173058",
+        "category": " Homologous Immunologically Active Globulins Intravenous "
+    },
+    {
+        "id": "39027bb1-c1f4-4e79-a673-d4c1fa34bc0c",
+        "pname": "Bharglob 16.5% Injection",
+        "psizeandcompany": "vial of 2 ml InjectionBharat Serums & Vaccines Ltd",
+        "mrp": 836.13,
+        "salts": "Human Normal Immunoglobulin (16.5% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1608749612/cdmybjt6gdjphridjmcl.jpg",
+        "product_url": "https://www.1mg.com/drugs/bharglob-16.5-injection-177320",
+        "category": " Polyvalent Immunoglobulins Intramuscular "
+    },
+    {
+        "id": "655e17cd-73f8-4cca-aa34-62f3c540a37b",
+        "pname": "Prevenar 13 Vaccine",
+        "psizeandcompany": "prefilled syringe of 0.5 ml Suspension for InjectionPfizer Ltd",
+        "mrp": 3801.0,
+        "salts": "Pneumococcal 13 valent Conjugate Vaccine (NA)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535629023/esvgyelvabuwhrkqlcoc.jpg",
+        "product_url": "https://www.1mg.com/drugs/prevenar-13-vaccine-311730",
+        "category": " Pure Vaccines "
+    },
+    {
+        "id": "de8da38b-97eb-4e6b-b262-21f3d60514a3",
+        "pname": "Botox 100IU Injection",
+        "psizeandcompany": "vial of 1 InjectionAllergan India Pvt Ltd",
+        "mrp": 22827.0,
+        "salts": "OnabotulinumtoxinA (100IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1608750003/sxpwbrbz1vis8dfyyeq9.jpg",
+        "product_url": "https://www.1mg.com/drugs/botox-100iu-injection-317574",
+        "category": " Specific Immunoglobulins Antibacterial "
+    },
+    {
+        "id": "435fea48-5b61-4d1d-879a-6bd413e1ae06",
+        "pname": "Hepatitis B Injection",
+        "psizeandcompany": "prefilled syringe of 5 ml InjectionBharat Serums & Vaccines Ltd",
+        "mrp": 11000.0,
+        "salts": "Human Hepatitis B Immunoglobulin (NA)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/hepatitis-b-injection-140082",
+        "category": " Specific Immunoglobulins Antiviral "
+    },
+    {
+        "id": "4765e9b4-09b5-4304-a764-019d7d289c8e",
+        "pname": "Aminowel Infusion",
+        "psizeandcompany": "bottle of 250 ml InfusionFresenius Kabi India Pvt Ltd",
+        "mrp": 450.0,
+        "salts": "Amino Acids (5% w/v)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/aminowel-infusion-235231",
+        "category": " Amino Acid Solutions Except Those Containing Fats "
+    },
+    {
+        "id": "435bf83b-578d-40e0-b59c-64626e7be454",
+        "pname": "Cypon Syrup",
+        "psizeandcompany": "bottle of 200 ml SyrupGeno Pharmaceuticals Ltd",
+        "mrp": 104.0,
+        "salts": "Cyproheptadine (2mg/5ml) + Tricholine Citrate (275mg/5ml) + Sorbitol (2gm/5ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1529325427/lxoezy6flounqgvoyuhj.jpg",
+        "product_url": "https://www.1mg.com/drugs/cypon-syrup-173396",
+        "category": " Appetite Stimulants "
+    },
+    {
+        "id": "1d661703-e829-4114-91c8-7f9152328be3",
+        "pname": "Vitcofol Injection",
+        "psizeandcompany": "vial of 10 ml InjectionFDC Ltd",
+        "mrp": 79.5,
+        "salts": "Nicotinamide (200mg/ml) + Folic Acid (15mg/ml) + Cyanocobalamin (500mcg/ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1537455450/v16xt7vzr4fgiz5txujv.jpg",
+        "product_url": "https://www.1mg.com/drugs/vitcofol-injection-114256",
+        "category": " B Complex "
+    },
+    {
+        "id": "8b8e475c-3b39-4a4c-9b99-a1ba820fa21b",
+        "pname": "Calciluvin Syrup",
+        "psizeandcompany": "bottle of 100 ml SyrupAbbott",
+        "mrp": 23.31,
+        "salts": "Calcium Lactate (200mg) + Luvistin (20mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/calciluvin-syrup-242680",
+        "category": " Calcium Others "
+    },
+    {
+        "id": "af6ed82e-78d0-4cfe-a34f-9a2cf9bfc856",
+        "pname": "Osteofit-HD Tablet",
+        "psizeandcompany": "strip of 15 tabletsAlembic Pharmaceuticals Ltd",
+        "mrp": 299.0,
+        "salts": "Calcium Carbonate (1250mg) + Vitamin D3 (2000IU) + Methylcobalamin (1500mcg) + L-Methyl Folate Calcium (1mg) + Pyridoxal-5-phosphate (20mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1612792195/kcngw7oertopi7qeacy5.jpg",
+        "product_url": "https://www.1mg.com/drugs/osteofit-hd-tablet-635238",
+        "category": " Calcium Products "
+    },
+    {
+        "id": "3f6d8a7e-9364-4842-b71e-b57d349f0788",
+        "pname": "Cognivel Tablet",
+        "psizeandcompany": "strip of 10 tabletsLinux Laboratories",
+        "mrp": 237.0,
+        "salts": "Ginkgo Biloba (60mg) + Piracetam (800mg) + Vinpocetine (5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/cognivel-tablet-307958",
+        "category": " Kanpo And Chinese Medicines "
+    },
+    {
+        "id": "5fd30aaa-0ac7-4adf-a103-57441f26c636",
+        "pname": "Nurokind-Plus RF Capsule",
+        "psizeandcompany": "strip of 10 capsulesMankind Pharma Ltd",
+        "mrp": 99.9,
+        "salts": "Methylcobalamin (1500mcg) + Alpha Lipoic Acid (100mg) + Vitamin B6 (Pyridoxine) (3mg) + Folic Acid (1.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1534917028/xwuj3y860glktwwnbebo.jpg",
+        "product_url": "https://www.1mg.com/drugs/nurokind-plus-rf-capsule-176207",
+        "category": " Methylcobalamin Combinations "
+    },
+    {
+        "id": "ad57cba4-8a1e-4b35-a222-3dac88abf7fe",
+        "pname": "B-VIT 12 Injection",
+        "psizeandcompany": "vial of 30 ml InjectionAstra Labs",
+        "mrp": 30.0,
+        "salts": "Cyanocobalamin (500mcg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/b-vit-12-injection-371941",
+        "category": " Methylcobalamin Plain "
+    },
+    {
+        "id": "399ab60a-70d6-48c9-a861-b8a6093e7cb9",
+        "pname": "M.V.I. Injection",
+        "psizeandcompany": "ampoule of 10 ml InjectionUSV Ltd",
+        "mrp": 25.0,
+        "salts": "Vitamin A (1000IU) + Thiamine(Vitamin B1) (5mg) + Vitamin B2 (1.40mg) + Vitamin D3 (100IU) + Pantothenic Acid (Vitamin B5) (2.50mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1530272395/nr2uwoxqybqun1gaaetp.jpg",
+        "product_url": "https://www.1mg.com/drugs/m.v.i.-injection-270941",
+        "category": " Modern Anti Oxidants "
+    },
+    {
+        "id": "e0bb125e-da65-40e8-b4d0-1d5acc55c3f6",
+        "pname": "Calcigo Max Softgel Capsule",
+        "psizeandcompany": "strip of 10 soft gelatin capsulesResolute Healthcare",
+        "mrp": 250.0,
+        "salts": "Calcitriol (0.25mcg) + Eicosapentaenoic Acid (180mg) + Docosahexanoic acid(DHA) (120mg) + Methylcobalamin (1500mcg) + Folic Acid (400mcg) + Calcium (500mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1532517694/e00v4xqhki00slyji9jw.jpg",
+        "product_url": "https://www.1mg.com/drugs/calcigo-max-softgel-capsule-376993",
+        "category": " Multivitamin With Minerals "
+    },
+    {
+        "id": "5ba29092-e40e-43f3-93af-04d22df00d9c",
+        "pname": "Lupilyzer Oral Solution",
+        "psizeandcompany": "bottle of 200 ml Oral SolutionLupin Ltd",
+        "mrp": 128.6,
+        "salts": "Magnesium Citrate (375mg/5ml) + Potassium Citrate (1100mg/5ml)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535629116/mjypxhzjap5ivfn7ngej.jpg",
+        "product_url": "https://www.1mg.com/drugs/lupilyzer-oral-solution-334082",
+        "category": " Other Mineral Supplements "
+    },
+    {
+        "id": "29533279-25e7-44f6-87c8-bd22fc5c90f6",
+        "pname": "Nurokind-LC  Tablet",
+        "psizeandcompany": "strip of 15 tabletsMankind Pharma Ltd",
+        "mrp": 209.25,
+        "salts": "Levo-carnitine (500mg) + Methylcobalamin (1500mcg) + Folic Acid (1.5mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1535629112/tttieuxxdjf5kbwcrjja.jpg",
+        "product_url": "https://www.1mg.com/drugs/nurokind-lc-tablet-329560",
+        "category": " Other Nutrients "
+    },
+    {
+        "id": "f22578e0-9853-4fee-a142-aba7ce645c46",
+        "pname": "Uprise-D3 60K Capsule",
+        "psizeandcompany": "strip of 8 capsulesAlkem Laboratories Ltd",
+        "mrp": 265.13,
+        "salts": "Vitamin D3 (60000IU)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1624539103/dfupxpf9bqswhgfdtvuz.png",
+        "product_url": "https://www.1mg.com/drugs/uprise-d3-60k-capsule-519817",
+        "category": " Other Vitamins "
+    },
+    {
+        "id": "b68269e1-5e9b-4367-b0a8-4ca4b65e9691",
+        "pname": "Kcl Injection",
+        "psizeandcompany": "vial of 10 ml InjectionHindustan Antibiotics Ltd",
+        "mrp": 21.87,
+        "salts": "Potassium Chloride (NA)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/kcl-injection-257902",
+        "category": " Potassium Products "
+    },
+    {
+        "id": "42d77018-0795-4580-9e0e-c5153b464495",
+        "pname": "Nervic-Plus Injection",
+        "psizeandcompany": "vial of 2 ml InjectionUnimarck Healthcare Ltd",
+        "mrp": 15.9,
+        "salts": "Calcium Pantothenate (12.5mg) + Methylcobalamin (500mcg) + Niacinamide (50mg) + Vitamin C (100mg) + Vitamin E (25mg)",
+        "image_url": "https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625228213/hx2gxivwmeoxxxsc1hix.png",
+        "product_url": "https://www.1mg.com/drugs/nervic-plus-injection-277062",
+        "category": " Traditional Antioxidants Multivit Multimineral "
+    }
+]
