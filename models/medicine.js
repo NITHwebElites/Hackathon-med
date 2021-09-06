@@ -1,7 +1,8 @@
+require('dotenv').config();
 const mongoose = require("mongoose");
-require("dotenv").config();
 
-mongoose.connect(process.env.DATABASE, {useNewUrlParser: true, useUnifiedTopology: true});
+
+mongoose.connect("mongodb+srv://PCM:BlL6eRdTmiRTdt0m@medbazaar.nt6jf.mongodb.net/medbazaar?retryWrites=true&w=majority", {useNewUrlParser: true, useUnifiedTopology: true});
 console.log("Mongoose connection open");
 const medSchema = new mongoose.Schema({
   name: String,

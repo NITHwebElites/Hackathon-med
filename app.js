@@ -4,24 +4,26 @@ const data = require("./data");
 const MedBazaar = require("./models/medicine");
 const app = express();
 
+app.use(express.static('public'))
+
 app.use(bodyParser.urlencoded({extended: true}));
 app.set("view engine", "ejs");
 
 //SAVE DATA IN DATABASE
 
-data.forEach(function(medicine){
-    const med = new MedBazaar({
-        name: medicine.medicine_name,
-        price: medicine.MRP,
-        company: medicine.manufacturer.name,
+// data.forEach(function(medicine){
+//     const med = new MedBazaar({
+//         name: medicine.medicine_name,
+//         price: medicine.MRP,
+//         company: medicine.manufacturer.name,
 
-    });
-    med.save(function(err){
-        if(!err){
-            console.log("Data saved");
-        }
-    });
-})
+//     });
+//     med.save(function(err){
+//         if(!err){
+//             console.log("Data saved");
+//         }
+//     });
+// })
 let options = [];
 
 
