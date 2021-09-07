@@ -40,6 +40,8 @@ with open('categories.json','r') as file:
         salts=[]
         product_urls = []
         image_urls=[]
+        size=[]
+        company=[]
         for name in bsoj.find_all('div',class_='style__font-bold___1k9Dl style__font-14px___YZZrf style__flex-row___2AKyf style__space-between___2mbvn style__padding-bottom-5px___2NrDR'):
             name=name.text.split('₹')
             product_name.append(name[0][:len(name[0])-3])
@@ -48,8 +50,19 @@ with open('categories.json','r') as file:
         # print(price)
         # print(product_name)
 
-        for name in bsoj.find_all('div','span',class_="style__flex-column___1zNVy style__font-12px___2ru_e"):
-            sizeandcompany.append(name.text)
+        for name in bsoj.find_all('div',class_="style__flex-column___1zNVy style__font-12px___2ru_e"):
+        
+            for each in name.find_all('div',class_="style__padding-bottom-5px___2NrDR"):
+                sizeandcompany.append(each.get_text())
+            
+        for i in range(len(sizeandcompany)):
+            if(i==0):
+                size.append(sizeandcompany[i])
+            elif (i%2==0):
+                size.append(sizeandcompany[i])
+            else:
+                company.append(sizeandcompany[i])
+
 
 
         for salt_name in bsoj.find_all('div',class_="style__font-12px___2ru_e style__product-content___5PFBW style__display-inline-block___2y7gd"):
@@ -68,7 +81,7 @@ with open('categories.json','r') as file:
 
         for i in range(1):
             
-            d1 = {"id": str(uuid.uuid4()),'pname':product_name[i],'psizeandcompany':sizeandcompany[i],'mrp':price[i],'salts' :salts[i] ,"image_url":image_urls[i],"product_url" : product_urls[i] ,'category': category}
+            d1 = {"site name": "1mg" ,"id": str(uuid.uuid4()),'pname':product_name[i],'psize':size[i],"pcompany":company[i],'mrp':price[i],'salts' :salts[i] ,"image_url":image_urls[i],"product_url" : product_urls[i] ,'category': category}
             # print(d1)
             medicine_details.append(d1)
 
