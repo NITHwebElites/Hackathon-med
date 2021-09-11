@@ -1,0 +1,518 @@
+[
+  {
+    "id": "0853760c-ded1-4026-bb5c-3feec1904c80",
+    "category": "ADHD"
+  },
+  {
+    "id": "22e37475-4e20-4bc0-a5cf-7c047e771002",
+    "category": "Acne"
+  },
+  {
+    "id": "16c2260d-be9b-4851-a1ce-175aaf1fd5af",
+    "category": "Alcohol Addiction"
+  },
+  {
+    "id": "27a06c50-2a49-4d23-84a3-d5e7c0e6c542",
+    "category": "Allergies"
+  },
+  {
+    "id": "3a5333f8-3373-45c3-81e9-29f29f95c39f",
+    "category": "Alzheimer"
+  },
+  {
+    "id": "bd22f285-95c1-40f8-bee4-585a76583b43",
+    "category": "Amoebiasis"
+  },
+  {
+    "id": "cc297a76-5f98-4318-ac6b-383707a77f41",
+    "category": "Anaemia"
+  },
+  {
+    "id": "1a625e0b-3f6f-44c9-ac79-238886de2827",
+    "category": "Anaesthesia - Local"
+  },
+  {
+    "id": "7d31d6db-69a1-4ec8-92b4-1d36d92493b8",
+    "category": "Anaesthesia General"
+  },
+  {
+    "id": "373df22c-f6d1-48c0-8b47-9f1f5303c4c3",
+    "category": "Anal Fissure"
+  },
+  {
+    "id": "f8f1c9b5-1cd3-4d37-a641-80d68e7cd83f",
+    "category": "Angina"
+  },
+  {
+    "id": "726f68c9-2eff-40a8-a974-52b0e085e6dd",
+    "category": "Anxiety"
+  },
+  {
+    "id": "d552aabb-15a1-45db-8f98-42c04cb869cf",
+    "category": "Appetite"
+  },
+  {
+    "id": "629935af-73f7-4e81-99c6-81b12343e5b9",
+    "category": "Arrhythmiasis"
+  },
+  {
+    "id": "ae226d95-c539-49b6-9d20-dd0904519734",
+    "category": "Arthritis"
+  },
+  {
+    "id": "2c761766-f02a-4a17-a301-4b8f3880508c",
+    "category": "Asthma/COPD"
+  },
+  {
+    "id": "17ae9074-ca7a-4757-943c-80d136fbb00d",
+    "category": "Auto Immune Disease"
+  },
+  {
+    "id": "15eb74c0-179c-4336-abcd-5b48a86c9622",
+    "category": "Ayurvedic Medicine"
+  },
+  {
+    "id": "27d2acd7-68aa-44ac-9537-fec2348b91c5",
+    "category": "Bladder And Prostate Disorders"
+  },
+  {
+    "id": "c6413f9b-7d5d-4ccb-acba-26e4fc2e7481",
+    "category": "Bleeding Disorders"
+  },
+  {
+    "id": "bb24ebd2-84de-4925-83e9-707ccd1c8708",
+    "category": "Blood Clot"
+  },
+  {
+    "id": "9ff1b737-0f6a-4321-b503-e8095243be7f",
+    "category": "Bone Metabolism"
+  },
+  {
+    "id": "43a893ee-c8d9-4499-b0b3-977d32864a09",
+    "category": "Burns"
+  },
+  {
+    "id": "1e29e8b2-58b3-4fc9-a692-432f8ecdbfa9",
+    "category": "CNS stimulants"
+  },
+  {
+    "id": "64f444fe-ef52-424c-9b45-c752e2f934d1",
+    "category": "Cancer/Oncology"
+  },
+  {
+    "id": "897139a6-a1e4-42c0-94d6-b75b11949ee7",
+    "category": "Cholelithiasis/Gall Stones"
+  },
+  {
+    "id": "1c51dd98-9c56-45cf-92d5-6bf22d2871ae",
+    "category": "Cleanser"
+  },
+  {
+    "id": "a64fa5f0-bab0-4e97-a483-c90f0a974ae5",
+    "category": "Constipation"
+  },
+  {
+    "id": "07cf5b46-14d6-4410-83e1-4a759aca7da2",
+    "category": "Contraception"
+  },
+  {
+    "id": "71973640-373d-4ced-8730-0dbfdfbe7ff8",
+    "category": "Cough And Cold"
+  },
+  {
+    "id": "6eff550b-55ef-4b32-bc9d-46559572bf63",
+    "category": "Crack"
+  },
+  {
+    "id": "1da7919d-370d-4b44-86c1-7c5ef17187c3",
+    "category": "Dandruff"
+  },
+  {
+    "id": "8b5ba35c-494e-4a0a-a5b4-2400eed1253f",
+    "category": "Depression"
+  },
+  {
+    "id": "27de3dfd-cf26-4a2f-a6c7-2e258655f629",
+    "category": "Diabetes"
+  },
+  {
+    "id": "b86e6905-0d0d-4171-9357-06cd6bbadfbb",
+    "category": "Diagnostic"
+  },
+  {
+    "id": "7ef0ddc8-ef17-456a-828c-a59eaa5faad3",
+    "category": "Diarrhoea"
+  },
+  {
+    "id": "d42d23d7-de05-4a93-97c2-ceec1a562514",
+    "category": "Dietary Management"
+  },
+  {
+    "id": "25be015c-a4c7-4fd0-bd1a-31cb3737f934",
+    "category": "Digestion"
+  },
+  {
+    "id": "5386c254-fce6-4efd-9279-cbe3f3d3b2ab",
+    "category": "Dry Eye"
+  },
+  {
+    "id": "dad62764-9dc7-40f5-9313-a5f5f1a16ff0",
+    "category": "Dry Skin"
+  },
+  {
+    "id": "8f195cf1-8d41-4eae-bb3e-fd8fbd3cf455",
+    "category": "Ear Conditions"
+  },
+  {
+    "id": "8bfc03db-8efb-4641-a37e-2f12dd41444d",
+    "category": "Epilepsy/Convulsion"
+  },
+  {
+    "id": "ad8c6a87-50e3-4740-a566-edff10235f5c",
+    "category": "Eye conditions"
+  },
+  {
+    "id": "5504f48d-0211-41f9-99ec-59862fa04f45",
+    "category": "Fever"
+  },
+  {
+    "id": "a263661b-278d-45fc-a3f0-7a16c0666d2b",
+    "category": "Fungal"
+  },
+  {
+    "id": "9663bcb8-2715-4fa5-94f3-a81740c11795",
+    "category": "Gastro Intestinal Motility Disorders"
+  },
+  {
+    "id": "0953debe-0d14-43cf-8933-988d14814d42",
+    "category": "General"
+  },
+  {
+    "id": "95e9b22a-f7c3-44d1-867d-ee8fb4540fd8",
+    "category": "Glaucoma"
+  },
+  {
+    "id": "3fc1d49a-1e06-4a27-a8fd-9cdb4e3be087",
+    "category": "Gout"
+  },
+  {
+    "id": "e5d071f0-5694-4205-ad7a-985b845a43ce",
+    "category": "Haematopoiesis"
+  },
+  {
+    "id": "361ad1f2-6732-4049-adcc-fdd5ecf2fbdf",
+    "category": "Haemorrhoid"
+  },
+  {
+    "id": "af14e585-c740-420b-93dc-d12fde1f8121",
+    "category": "Hair Color"
+  },
+  {
+    "id": "c250d6c7-5083-4908-8bb8-e98ee11f3862",
+    "category": "Hair Loss"
+  },
+  {
+    "id": "32486e0e-5b68-449f-b8be-fa3a8109205b",
+    "category": "Head Lice"
+  },
+  {
+    "id": "caa8ca35-20d8-4a63-b3b5-cc4a968d3a31",
+    "category": "Heart Failure"
+  },
+  {
+    "id": "e12ba8d2-1d25-4e1d-af05-4f070d2c1abd",
+    "category": "Hepatitis B Infection"
+  },
+  {
+    "id": "6bc222af-4970-4379-8344-907b5746dadf",
+    "category": "High Cholesterol"
+  },
+  {
+    "id": "a5d4e664-8211-4de9-a1a1-a89efcf31fa4",
+    "category": "Hormonal Therapy"
+  },
+  {
+    "id": "39700f0e-effc-4146-bea3-ba14f578dfd3",
+    "category": "Hyperpigmentation"
+  },
+  {
+    "id": "09ae2468-1b5f-4cef-a298-364b86c4f9be",
+    "category": "Hypertension"
+  },
+  {
+    "id": "846ea29b-918d-4012-a54a-77f425ec905f",
+    "category": "Hyperthyroidism"
+  },
+  {
+    "id": "29ab2edd-7bbf-4d5f-83e0-21e929c339de",
+    "category": "Hypnosis"
+  },
+  {
+    "id": "f5ffb936-5dd6-40ad-9b6c-5dc82c06b086",
+    "category": "Hypotension"
+  },
+  {
+    "id": "2125a0c0-49ab-4b27-aaa1-457e41bb09b0",
+    "category": "Hypothyroidism"
+  },
+  {
+    "id": "744ac72a-a5ba-4fd1-ac8f-3c383f9a40df",
+    "category": "Idiopathic Pulmonary Fibrosis"
+  },
+  {
+    "id": "026d0cd4-a08e-4339-8e02-6954abece2dc",
+    "category": "Immune Sera"
+  },
+  {
+    "id": "a0249b94-b121-44ee-baf0-6064666cdcef",
+    "category": "Immune Suppression"
+  },
+  {
+    "id": "39f4a7b2-2234-4155-9dd6-d7fd7fcd2571",
+    "category": "Immunoglobulins"
+  },
+  {
+    "id": "55eee44f-564d-44ca-8abf-b64bb7bb75c9",
+    "category": "Impotence/Erectile Dysfunction (Ed)"
+  },
+  {
+    "id": "d6120f3b-fad8-40c6-818a-f92a18dffe32",
+    "category": "Infection"
+  },
+  {
+    "id": "641d6da7-e402-4ce4-a95a-d934574314d4",
+    "category": "Kidney Disease/Stones"
+  },
+  {
+    "id": "29c06866-9788-4288-b0d1-35dd8136899a",
+    "category": "Leprosy"
+  },
+  {
+    "id": "adf23c1c-d4a8-4d95-ae69-a6a6ad5ab0ab",
+    "category": "Liver Diseases"
+  },
+  {
+    "id": "923c6ad2-b4bb-4469-88e9-9584765b902e",
+    "category": "Lubrication"
+  },
+  {
+    "id": "4d86a183-cfa2-4486-9701-9384595d11a3",
+    "category": "Malarial"
+  },
+  {
+    "id": "ded4daba-7891-48fb-9868-36de14730339",
+    "category": "Migraine"
+  },
+  {
+    "id": "6c50db0d-cac5-4a42-8bf2-8675564bd194",
+    "category": "Muscle Cramps/Spasticity"
+  },
+  {
+    "id": "1e26f0b5-fdd3-47ff-84da-a4f938ac6bb3",
+    "category": "Muscle Spasm"
+  },
+  {
+    "id": "d458cdac-e345-4069-a7c8-d8fc1ce654a3",
+    "category": "Mydriasis"
+  },
+  {
+    "id": "d1a217a3-b3c8-4883-86ab-2ad10fb9040a",
+    "category": "Nappy Rash"
+  },
+  {
+    "id": "354ff274-1407-43a9-ba31-406d42b8eefb",
+    "category": "Nasal Congestion"
+  },
+  {
+    "id": "b028e531-a58e-4e26-abf4-48f9df2db16d",
+    "category": "Neuropathic Pain"
+  },
+  {
+    "id": "702edd75-4848-4d90-a385-cbee2b3c5ad8",
+    "category": "Nootropics And Neurotrophics"
+  },
+  {
+    "id": "b11ac007-b761-41bc-af44-fbd8baf73b07",
+    "category": "Obese"
+  },
+  {
+    "id": "10f9b6b3-1443-4e4b-a02b-62832b7228d2",
+    "category": "Obesity"
+  },
+  {
+    "id": "f4e5ab2a-14cf-4674-a291-a5de1705ce5b",
+    "category": "Oral Care"
+  },
+  {
+    "id": "ad57b871-4e82-4af2-99c7-456f131b8e96",
+    "category": "Osteoporosis"
+  },
+  {
+    "id": "a5489111-de59-46be-a01d-7b9cef2a23ce",
+    "category": "Pain relief"
+  },
+  {
+    "id": "ab325655-47e6-4d50-bbed-ef72cebb7dcf",
+    "category": "Parasitic Worms"
+  },
+  {
+    "id": "7b9f3aba-1e08-4fe5-a7e1-a6a38041b9df",
+    "category": "Parkinsonism"
+  },
+  {
+    "id": "b4e08f7c-e8a9-4aad-849a-cec1a02c27ec",
+    "category": "Patanjali Ayurvedic"
+  },
+  {
+    "id": "7db73c26-6be7-457b-8ab2-079d432159a2",
+    "category": "Peripheral Hypertension"
+  },
+  {
+    "id": "592d96a1-02a3-40ba-be45-d4684ef8c66a",
+    "category": "Poisoning/Overdose"
+  },
+  {
+    "id": "43464f36-e2d4-48b2-bdcd-c263aa28d59b",
+    "category": "Pregnancy Testing Kit"
+  },
+  {
+    "id": "510fd8a7-bf49-4bf8-839d-ecfaa22ad2d5",
+    "category": "Premature Ejaculation"
+  },
+  {
+    "id": "e937092b-64bb-40f8-a930-ccc167823410",
+    "category": "Psoriasis/Seborrhea/Ichthyosis"
+  },
+  {
+    "id": "5895095a-c3e6-425f-ae20-18ea5bfa206c",
+    "category": "Psychosis"
+  },
+  {
+    "id": "be381f18-0c4c-4048-b0eb-191c5da22bbd",
+    "category": "Pulmonary Arterial Hypertension"
+  },
+  {
+    "id": "37be914a-014d-49e4-a89e-59e48b95c483",
+    "category": "Rabies"
+  },
+  {
+    "id": "2ee3fcd2-d0a3-4c88-a69e-86c62a033d8e",
+    "category": "Sanitizer"
+  },
+  {
+    "id": "f7dad531-e41d-4b7f-a900-d60b17c3c3d3",
+    "category": "Scabies"
+  },
+  {
+    "id": "2f601f2a-f058-4fd4-9e79-dec1bc651600",
+    "category": "Scar"
+  },
+  {
+    "id": "96dd9deb-ba8e-466e-a848-d3fcebbaae74",
+    "category": "Schizophrenia"
+  },
+  {
+    "id": "16c00e14-088a-4ac2-ba0f-c81c2b17514f",
+    "category": "Skin Infections"
+  },
+  {
+    "id": "da1da924-fd53-4a8d-9d17-00abf095fe10",
+    "category": "Smoking cessation"
+  },
+  {
+    "id": "447b91bf-11ed-4406-b56f-b016dc4153f3",
+    "category": "Stretch Marks"
+  },
+  {
+    "id": "0316ec6c-ae32-4f87-be41-7deccc0a2efb",
+    "category": "Sun Protectors"
+  },
+  {
+    "id": "d6c99c2a-2c44-4574-b3b9-4830a1bd8f11",
+    "category": "Sunscreen Preparations"
+  },
+  {
+    "id": "88478a16-5899-4119-9282-c36a3b2a5db2",
+    "category": "Supplements"
+  },
+  {
+    "id": "82527068-a191-475c-b54a-ead91cae2c87",
+    "category": "Surgicals"
+  },
+  {
+    "id": "c2d7db77-e30f-4df8-9f56-37e8ca75a344",
+    "category": "Syringe"
+  },
+  {
+    "id": "799c7eda-9190-4d99-b810-0be795665826",
+    "category": "Tetanus"
+  },
+  {
+    "id": "eaffb8e4-5407-41e8-8f1c-157b38e9f1cf",
+    "category": "Thrombotic Disorder"
+  },
+  {
+    "id": "ce803f6e-89db-481c-8211-3bfca1c9160a",
+    "category": "Tuberculosis"
+  },
+  {
+    "id": "128f21b9-786c-4b26-84cb-d572f7f5e2af",
+    "category": "Ulcer/Reflux/Flatulence (1"
+  },
+  {
+    "id": "f4df3bfc-b610-4558-bd82-9d9d963cad19",
+    "category": "Ulcerative Colitis/Bowel Inflammatory Disease"
+  },
+  {
+    "id": "766dcb76-d67e-4100-a92f-9653667ce623",
+    "category": "Urinary Retention"
+  },
+  {
+    "id": "805c967f-2bf2-45bf-9193-8883ac6bbe78",
+    "category": "Uterus Conditions"
+  },
+  {
+    "id": "0d225b99-20a7-4522-b7e4-3bdf3e8f8395",
+    "category": "Vaccines"
+  },
+  {
+    "id": "6c8357d1-c164-44ad-9620-cb28d342ee20",
+    "category": "Vaginal Capsules"
+  },
+  {
+    "id": "09e14e1c-67bf-43a1-b842-2a8d4054bae7",
+    "category": "Vaginal Conditions"
+  },
+  {
+    "id": "2ae0cf91-81f1-40fc-b3a1-4a2fb74e9c7c",
+    "category": "Varicose Veins"
+  },
+  {
+    "id": "0967fe30-c730-4502-93d6-fc3907b5bcda",
+    "category": "Vertigo"
+  },
+  {
+    "id": "3a359edc-efff-489d-b25a-7c6d319cfe62",
+    "category": "Viral infections"
+  },
+  {
+    "id": "36ab4a72-0aaf-450e-9990-1b8afa02d80e",
+    "category": "Vomitting/Emesis"
+  },
+  {
+    "id": "92040829-91c7-4311-ae34-10657edf8779",
+    "category": "Warts/Calluses/Other Skin Lesion"
+  },
+  {
+    "id": "b0efb73b-8925-4aea-8e4a-08027a72dabe",
+    "category": "Weight Loss"
+  },
+  {
+    "id": "c3b0a502-295d-4f09-9a98-c5fe6b194ebd",
+    "category": "Wound Care"
+  },
+  {
+    "id": "ab2fde65-fb73-44a3-84a5-9b50bdcb58e1",
+    "category": "Wrinkle/Anti Ageing"
+  }
+]
