@@ -45,5 +45,5 @@ with open('categories.json','r') as file:
 
 
         
-# with open("medicine.json", "w") as file:
-#     json.dump(medicine_details, file)
+with open("medicine.json", "w") as file:
+    json.dump(medicine_details, file)
