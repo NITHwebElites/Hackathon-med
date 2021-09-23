@@ -1,0 +1,177 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box; 
+ }
+ body{
+     height: 200vh;
+     background-image: linear-gradient(45deg, rgb(85, 137, 233),rgb(243, 234, 110));
+ }
+ div#first_container{
+     height:100vh;
+     width:100vw;
+     border-bottom-left-radius: 6vw;
+     border-bottom-right-radius: 6vw;
+     /* border-top-left-radius: 6vw; */
+     /* border : solid 2px black; */
+    
+     
+      background-image: linear-gradient( 20deg ,  rgba(40, 40, 68, 0.61),rgba(89, 212, 221, 0.815),rgb(247, 240, 248)) 
+ }
+ 
+ 
+ ul#navbar{
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content:right;
+     list-style: none;
+     align-items: center;
+     height: 50px;
+    
+     
+ }
+ ul#navbar li{
+     flex:0.05;
+     
+ }
+ ul#navbar li#about{
+     flex:0.072;
+ }
+ a.nav_links{
+     text-decoration: none;
+     
+     color: rgb(12, 9, 9);
+     font-weight: bolder;
+ }
+ .fa-github{
+    font-size: larger;
+}
+.fa-linkedin{
+    font-size: larger;
+    color: darkblue;
+}
+.fa-github:hover{
+    color: rgb(116, 114, 114);
+}
+.fa-linkedin:hover{
+    color: deepskyblue;
+}
+ #div_for_logo{
+     height: 20vh;
+     width: 500px;
+     /* background-color: rgba(255, 255, 255, 0.171); */
+    margin:auto;
+    margin-top: 4vh;
+ 
+     
+ 
+ }
+ div#div_for_tagline{
+     min-height: 30px;
+     color: blanchedalmond;
+     margin-top: 2vh;
+ 
+ }
+ p#tagline{
+    position: absolute;
+    left:  15vw;
+    color: black;
+    
+}
+ div#div_for_search{
+     display: flex;
+     position: relative;
+     flex-direction: row;
+     justify-content: center;
+     margin-top: 3vh;
+ }
+ div#search_logo{
+     height: 5vh;
+     width: 3.88vw;
+     position:absolute;
+     left: 18.1vw;
+   
+ }
+ 
+ input#input_med{
+     flex: 0.6;
+     height: 5vh;
+     border-radius: 0;
+     background-color: rgba(5, 1, 1, 0.344);
+     color: rgb(250, 248, 248);
+     padding-inline-start: 2.4vw;
+     border: none;
+     backdrop-filter: blur(15px);
+     
+ }
+ input::placeholder{
+     color: rgba(49, 48, 48, 0.589);
+     font-weight: bolder;
+ }input.middle:focus{
+     outline-width:0;
+     
+     /* outline-width: none; */
+ }
+ button{
+
+    background-color: rgba(167, 228, 233, 0.815);
+    padding:0.1vw;
+    border: solid 0.3px rgb(112, 109, 109);
+ }
+     #section_for_adv{
+         display: flex;
+         flex-direction: row;
+         flex-wrap: wrap;
+         flex:1;
+         justify-content: space-around;
+         align-items: center;
+         height:40vh;
+         margin-top: 2vh;
+     }
+     div.companies{
+         height:27vh;
+         width: 200px;
+         background-color:rgba(255, 255, 255, 0.08)  ;
+         backdrop-filter: blur(30px);
+
+         border: solid rgba(180, 176, 176, 0.377) 0.1px;
+
+         border: solid rgba(150, 148, 148, 0.247) 0.1px;
+
+         border-radius: 28px;
+         transform:rotateZ(0deg);
+         
+        
+         box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; 
+         /* box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+          */
+     }
+     div#second_container{
+         height:100vh;
+         width:80vw;
+         
+         border-radius: 6vw;
+         position: absolute;
+         left: 10vw;
+         top: 95vh;
+         backdrop-filter: blur(30px);
+         border: solid 0.85px rgba(226, 221, 221, 0.733);
+         box-shadow: rgba(37, 37, 37, 0.322) 2.4px 2.4px 3.2px;
+         display: flex;
+         flex-direction: row;
+         justify-content: space-around;
+         align-items: center;
+         flex-wrap: wrap;
+
+         
+     }
+     div.steps{
+         /* flex:1; */
+         height: 35vh;
+         width: 400px;
+         background-color: rgba(236, 233, 243, 0.281);
+         border-radius: 5vw;
+     }
+
+    
