@@ -10,3 +10,4 @@ app.set("view engine","ejs");
  app.listen(port,()=>{
      console.log("server is running !!");
  })
+ //rgba(153, 164, 206, 0.719),rgba(16, 79, 109, 0.479)rgba(153, 164, 206, 0.719),rgba(16, 79, 109, 0.479)
