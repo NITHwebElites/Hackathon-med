@@ -7,8 +7,16 @@ import pandas as pd
 
 from  selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
+
+
+
 
 chrome_driver_path = "C:\Development\chromedriver.exe"
+
+options = Options()
+
+options.add_experimental_option('excludeSwitches', ['enable-logging'])
 
 driver =webdriver.Chrome(executable_path=chrome_driver_path)
 
@@ -29,7 +37,7 @@ psalt=[]
 psize=[]
 pimage=[]
 medicine_details = []
-with open('medcine_urls.json','r') as file:
+with open('Practo Scrapper\medcine_urls.json','r') as file:
     data = json.load(file)
     # print(data)
 
@@ -106,7 +114,7 @@ with open('medcine_urls.json','r') as file:
         
         for i in range(len(pname)):
 
-            d1 = {"site name": "practo" ,"id": str(uuid.uuid4()),'pname':pname[i],'pcompany':pcompany[i],'psalt':psalt[i],'psize':psize[i],'pprice':pprice[i] ,'pimage_url':pimage[i],'product_url':URL}
+            d1 = {"site name": "practo" ,"id": str(uuid.uuid4()),'pname':pname[i],'psize':psize[i],'pcompany':pcompany[i],'mrp':pprice[i] ,'salts':psalt[i] ,'image_url':pimage[i],'product_url':URL}
             # print(d1)
             medicine_details.append(d1)
         

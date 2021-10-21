@@ -15,6 +15,7 @@ try:
                 url = "https://www.netmeds.com/prescriptions/" + category["category"].lower().replace(' ', '-').replace(
                     '/',
                     '-')
+                print(url)
                 response = requests.get(url)
                 fetched_data = BeautifulSoup(response.text, "lxml")
 

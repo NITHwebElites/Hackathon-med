@@ -40,6 +40,7 @@ try:
                                     if i is not None:
                                         image_urls.append(i['src'])
                             Medicine["image_urls"] = image_urls
+                            print(image_urls)
                             # Finding Out MRP
                             amount = Data.find("span", {"class": "final-price"}).get_text().replace("M.R.P.: Rs.", "")
                             Medicine["MRP"] = amount
