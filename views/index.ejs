@@ -1,47 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <title>Med Bazaar</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<body>
-    <h1>
-        MedBazaar
-    </h1>
-    <div>
-        <form method="POST" action="search">
-
-            <input type="text" list="medicines" name="input" id = "search" autocomplete="off">
-            <datalist id="medicines" style="display: none;">
-                <template id = "resultstemplate">
-                    <% params.forEach(function(data){ %>
-                        <option>
-                            <%=data%>
-                        </option>
-                        <%})%>
-                </template>
-                
-            </datalist>
-
-            <button type="submit">Compare</button>
-
-
-        </form>
-    </div>
-
-
-
-    <!-- <script src="script.js"></script> -->
-</body>
-
-</html>
-
-<!-- <!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -77,9 +35,10 @@
             save money on your<br> Prescription!
         
         </h1>
+        <!-- <input placeholder="Medicine Name Here" type="text"> -->
         <form method="POST" action="search">
 
-            <input type="text" list="medicines" name="input" id = "input" autocomplete="off" placeholder="Medicine Name Here" >
+            <input type="text" list="medicines" name="input" id = "search" autocomplete="off">
             <datalist id="medicines" style="display: none;">
                 <template id = "resultstemplate">
                     <% params.forEach(function(data){ %>
@@ -90,12 +49,11 @@
                 </template>
                 
             </datalist>
-
+            <br>
             <button type="submit">Compare</button>
 
 
         </form>
-        
     </div>
     <div class="working">
         <div class="working_card">
@@ -174,6 +132,6 @@
         </div>
         <p>© MedBazzar 2021 | MIT License | Some Rights Reserved</p>
     </footer>
-    <script src = "../public/script.js"></script>
+    <script src="script.js"></script>
 </body>
-</html> -->
+</html>

@@ -13,9 +13,10 @@ app.set("view engine", "ejs");
 
 // data.forEach(function(medicine){
 //     const med = new MedBazaar({
-//         name: medicine.medicine_name,
-//         price: medicine.MRP,
-//         company: medicine.manufacturer.name,
+//         name: medicine.pname,
+//          size: medicine.psize,
+//         price: medicine.mrp,
+//         company: medicine.pcompany,
 
 //     });
 //     med.save(function(err){
@@ -38,7 +39,7 @@ app.get("/", (req, res) => {
       });
     }
     // console.log(options);
-    res.render("home", {params: options})
+    res.render("index", {params: options})
   });
 
 

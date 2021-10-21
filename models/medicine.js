@@ -6,6 +6,7 @@ mongoose.connect("mongodb+srv://PCM:BlL6eRdTmiRTdt0m@medbazaar.nt6jf.mongodb.net
 console.log("Mongoose connection open");
 const medSchema = new mongoose.Schema({
   name: String,
+  size: String,
   price: String,
   company: String,
   

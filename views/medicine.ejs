@@ -11,8 +11,13 @@
             <%= name %>
         </h1>
         <ul>
+            
+            <%if(params[0] === undefined){%>
+                <p>No data found</p>
+            <%}%>
             <%params.forEach(function(med){%>
                 <li>Price: <%=med.price%></li>
+                <li>Size: <%=med.size%></li>
                 <li>Company: <%=med.company%></li>
             <%})%>
         </ul>
