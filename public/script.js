@@ -14,7 +14,11 @@
 var search = document.querySelector('#search');
         var results = document.querySelector('#medicines');
         var templateContent = document.querySelector('#resultstemplate').content;
+        var mainHead = document.querySelector("#main-head");
+        var mainForm = document.querySelector("#main-form");
         search.addEventListener('keyup', function handler(event) {
+            mainHead.classList.add("main-head-display");
+            mainForm.classList.add("form");
             while (results.children.length) results.removeChild(results.firstChild);
             var inputVal = new RegExp(search.value.trim(), 'i');
             var set = Array.prototype.reduce.call(templateContent.cloneNode(true).children,

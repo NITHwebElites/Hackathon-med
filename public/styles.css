@@ -97,6 +97,12 @@ header li:nth-of-type(4):hover {
   text-transform:capitalize;
   white-space:nowrap
 }
+.main-head-display{
+    display: none;
+}
+.main form{
+    width: 100%;
+}
 #search {
     outline: none;
     width: 70%;
@@ -110,6 +116,10 @@ header li:nth-of-type(4):hover {
     background-repeat: no-repeat;
     background-size: 20px;
 
+}
+.form{
+    width:100%;
+    animation: scaleUp 0.5s linear forwards;
 }
 .working {
     width: 70%;
@@ -251,4 +261,11 @@ footer{
     background-color: var(--navy-blue);
     border-radius: 30px;
     padding: 5vh;
+}
+@keyframes scaleUp {
+    from{
+        transform: translateY(0);
+    } to{
+        transform: translateY(-300%);
+    }
 }
