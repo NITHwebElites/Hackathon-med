@@ -38,7 +38,7 @@
         <!-- <input placeholder="Medicine Name Here" type="text"> -->
         <form method="POST" action="search" id = "main-form">
 
-            <input type="text" list="medicines" name="input" id = "search" autocomplete="off">
+            <input type="text" list="medicines" placeholder="Enter Medicine Name Here" name="input" id = "search" autocomplete="off">
             <datalist id="medicines" style="display: none;" id = "resultsdatalist">
                 <template id = "resultstemplate">
                     <% params.forEach(function(data){ %>
@@ -119,8 +119,12 @@
     </section>
     <footer>
         <section class="contact">
-            <h2>Fell Free to Contact Us</h2>
-            <input type="text"><button>SEND</button> 
+            <div class="contact_details">
+                <h2>Fell Free to Contact Us</h2> 
+                <input type="text">
+                <br><button>SEND</button> 
+            </div>
+           
         </section>
         <h3>Proudly Using data From</h3>
         <div class="mnc-container">
