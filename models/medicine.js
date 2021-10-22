@@ -9,6 +9,7 @@ const medSchema = new mongoose.Schema({
   size: String,
   price: String,
   company: String,
-  
+  image_URL: String,
+  product_URL: String,
 });
 module.exports = mongoose.model("MedBazaar", medSchema);

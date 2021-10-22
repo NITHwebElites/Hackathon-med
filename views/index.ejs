@@ -39,7 +39,7 @@
         <form method="POST" action="search" id = "main-form">
 
             <input type="text" list="medicines" name="input" id = "search" autocomplete="off">
-            <datalist id="medicines" style="display: none;">
+            <datalist id="medicines" style="display: none;" id = "resultsdatalist">
                 <template id = "resultstemplate">
                     <% params.forEach(function(data){ %>
                         <option>
@@ -50,7 +50,7 @@
                 
             </datalist>
             <br>
-            <button type="submit">Compare</button>
+            <!-- <button type="submit">Compare</button> -->
 
 
         </form>

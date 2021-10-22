@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style2.css">
+</head>
+<body>
+    <section class="container">
+        <header>
+            <div class="brandlogo">
+
+            </div>
+            <ul>
+                <li>
+                    <a href="">Working</a>
+                </li>
+                <li>
+                    <a href="">About</a>
+                </li>
+                <li>
+                    <a href="">Contact</a>
+                </li>
+                
+                <li>
+                    <a href="">Github</a>
+                </li>
+            
+            </ul>
+        </header>
+        <div class="main">
+        <input placeholder="Medicine Name Here" type="text">
+        
+    </div>
+    <div class="product-container">
+        <%if(params[0] === undefined){%>
+            <p>No data found</p>
+        <%}%>
+        <%params.forEach(function(med){%>
+            <div class="product_card">
+                <h3 class="product_name"><%= name %></h3>
+            </div>
+            <div class="product_img">
+                <img src=<%=med.image_URL%> alt="">
+            </div>
+            <div class="product_details">
+                <img class="thumnail_brand" src="./assets//images//f99f81a36bd-1X1_Log_PE.jpg" alt="">
+                <h3 class="price">
+                   <%=med.price%>
+                </h3>
+                <button class="redirect"><a href = <%=med.product_URL%>></a>Visit</button>  
+        <%})%>
+        <!-- <div class="product_card">
+            <h3 class="product_name">Medicine Name</h3>
+            <div class="product_img">
+                <img src="https://www.netmeds.com/images/product-v1/600x600/948005/nirvasa_plant_based_collagen_builder_powder_berry_orange_flavour_500_gm_0_2.jpg" alt="">
+            </div>
+            <div class="product_details">
+                <img class="thumnail_brand" src="./assets//images//f99f81a36bd-1X1_Log_PE.jpg" alt="">
+                <h3 class="price">
+                    $200
+                </h3>
+                <button class="redirect">Visit</button>  
+            </div>
+            
+        </div> -->
+
+        <!-- <div class="product_card">
+            <h3 class="product_name">Medicine Name</h3>
+            <div class="product_img">
+                <img src="https://www.netmeds.com/images/product-v1/600x600/948005/nirvasa_plant_based_collagen_builder_powder_berry_orange_flavour_500_gm_0_2.jpg" alt="">
+            </div>
+            <div class="product_details">
+                <img class="thumnail_brand" src="./assets//images//f99f81a36bd-1X1_Log_PE.jpg" alt="">
+                <h3 class="price">
+                    $200
+                </h3>
+                <button class="redirect">Visit</button>  
+            </div>
+            
+        </div>
+
+        <div class="product_card">
+            <h3 class="product_name">Medicine Name</h3>
+            <div class="product_img">
+                <img src="https://www.netmeds.com/images/product-v1/600x600/948005/nirvasa_plant_based_collagen_builder_powder_berry_orange_flavour_500_gm_0_2.jpg" alt="">
+            </div>
+            <div class="product_details">
+                <img class="thumnail_brand" src="./assets//images//f99f81a36bd-1X1_Log_PE.jpg" alt="">
+                <h3 class="price">
+                    $200
+                </h3>
+                <button class="redirect">Visit</button>  
+            </div>
+            
+        -->
+        
+        </div>
+    </div>
+    </section>
+    <footer>
+        <section class="contact">
+            <h2>Fell Free to Contact Us</h2>
+            <input type="text"><button>SEND</button> 
+        </section>
+        <h3>Proudly Using data From</h3>
+        <div class="mnc-container">
+            <div class="mnc"></div>
+            <div class="mnc"></div>
+            <div class="mnc"></div>
+            <div class="mnc"></div>
+            
+        </div>
+        <p>© MedBazzar 2021 | MIT License | Some Rights Reserved</p>
+    </footer>
+    <section class="compare">
+        <h1></h1>
+        <p></p>
+         </section>
+</body>
+</html>

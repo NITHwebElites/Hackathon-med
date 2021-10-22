@@ -17,7 +17,8 @@ app.set("view engine", "ejs");
 //          size: medicine.psize,
 //         price: medicine.mrp,
 //         company: medicine.pcompany,
-
+//         image_URL: medicine.image_url,
+//         product_URL: medicine.product_url,    
 //     });
 //     med.save(function(err){
 //         if(!err){
@@ -54,7 +55,7 @@ app.get("/", (req, res) => {
             console.log(err);
         } else{
             console.log(medicines);
-            res.render("medicine", {name: req.body.input,
+            res.render("compare", {name: req.body.input,
                 params: medicines})
         }
     })
